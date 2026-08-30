@@ -335,4 +335,6 @@
   <MOWiki_CE_Values>Combat-Extended-Werte</MOWiki_CE_Values>
   <MOWiki_CE_BluntShort>{0} stumpf</MOWiki_CE_BluntShort>
   <MOWiki_CE_DamageShort>{0} Schaden</MOWiki_CE_DamageShort>
+  <MOWiki_BuildingStart>Codex liest deine Mods ein ...</MOWiki_BuildingStart>
+  <MOWiki_Building>Codex: Schritt {0} von {1}, {2}</MOWiki_Building>
 </LanguageData>

@@ -335,4 +335,6 @@
   <MOWiki_CE_Values>Combat Extended values</MOWiki_CE_Values>
   <MOWiki_CE_BluntShort>{0} blunt</MOWiki_CE_BluntShort>
   <MOWiki_CE_DamageShort>{0} damage</MOWiki_CE_DamageShort>
+  <MOWiki_BuildingStart>Codex is reading your mods...</MOWiki_BuildingStart>
+  <MOWiki_Building>Codex: step {0} of {1}, {2}</MOWiki_Building>
 </LanguageData>
