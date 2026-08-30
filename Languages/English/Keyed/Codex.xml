@@ -31,7 +31,7 @@
   <MOWiki_Consumes>Made here from</MOWiki_Consumes>
   <MOWiki_RunsAt>Runs at</MOWiki_RunsAt>
   <MOWiki_NeedsSchematic>Requires schematic</MOWiki_NeedsSchematic>
-  <MOWiki_NoSchematic>No schematic needed — research it directly.</MOWiki_NoSchematic>
+  <MOWiki_NoSchematic>No schematic needed, research it directly.</MOWiki_NoSchematic>
   <MOWiki_Prerequisites>Requires research</MOWiki_Prerequisites>
   <MOWiki_Unlocks>Unlocks</MOWiki_Unlocks>
   <MOWiki_Profile>Profile</MOWiki_Profile>

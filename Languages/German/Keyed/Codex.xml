@@ -31,7 +31,7 @@
   <MOWiki_Consumes>Wird hier hergestellt aus</MOWiki_Consumes>
   <MOWiki_RunsAt>Läuft an</MOWiki_RunsAt>
   <MOWiki_NeedsSchematic>Braucht Bauplan</MOWiki_NeedsSchematic>
-  <MOWiki_NoSchematic>Kein Bauplan nötig — direkt erforschbar.</MOWiki_NoSchematic>
+  <MOWiki_NoSchematic>Kein Bauplan nötig, direkt erforschbar.</MOWiki_NoSchematic>
   <MOWiki_Prerequisites>Setzt Forschung voraus</MOWiki_Prerequisites>
   <MOWiki_Unlocks>Schaltet frei</MOWiki_Unlocks>
   <MOWiki_Profile>Steckbrief</MOWiki_Profile>
