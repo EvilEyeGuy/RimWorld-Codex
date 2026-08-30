@@ -1,22 +1,15 @@
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/01_introduction.png[/img]
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/13_introduction.png[/img]
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png[/img]
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/11_what_a_page_shows.png[/img]
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_where_to_open.png[/img]
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/10_where_to_open.png[/img]
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_works_with.png[/img]
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/14_works_with.png[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/12_what_it_reads.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_what_it_reads.png[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_performance.png[/img]
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/15_performance.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_performance.png[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_faq.png[/img]
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/16_faq.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_faq.png[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_credits.png[/img]
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/17_credits.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_credits.png[/img]

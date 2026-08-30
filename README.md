@@ -10,5 +10,7 @@ Each image is served directly under:
     https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/<file>.png
 
 `description.txt` holds the finished BBCode for the Workshop description,
-banner followed by its sheet.
-Source scripts live on E:\Codex-Source, not in this repository.
+one image per section. Every section carries its own banner, so there is
+no separate banner file any more.
+
+Source scripts live on E:, not in this repository.
