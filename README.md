@@ -23,6 +23,16 @@ to the ruin that schematic drops in and the odds of finding it there.
   requirements
 - **Research**: what it unlocks, what it leads to, and what blocks it, meaning
   schematics, techprints, benches and prerequisites
+- **Structures**: the ruins and hideouts of the world generator, drawn as a floor
+  plan in the colours of the materials they are built from, with every possible
+  layout as a tab, what you can loot there, and how you come across the place
+
+While a game is running, each page also shows where that thing currently is on
+your maps, in stockpiles, carried by a pawn or out with a caravan. Clicking the
+entry jumps the camera there, and clicking again walks through the other copies.
+
+Floor plans give away what a ruin looks like inside, so they start blurred and
+uncover on a click. You can turn that off in the mod settings.
 
 Nothing is hard-coded. The index is generated at runtime from whatever mods you
 have installed, so it stays correct when they update and it covers modded content
@@ -31,6 +41,13 @@ the same way it covers vanilla.
 The Medieval Overhaul support reads what is otherwise invisible: monster drop
 chances, loot table percentages, which schematic a research project needs, which
 container a mimic is hiding in, and what the Explorer's Workbench can discover.
+
+## Combat Extended
+
+With Combat Extended loaded, the vanilla ranged numbers are wrong, so they are
+not shown. In their place you get the real ones: range, minimum range, warmup,
+burst, recoil, magazine, reload time, sight efficiency and bulk, plus every
+ammunition type the weapon fires with its armour penetration.
 
 ## Performance
 

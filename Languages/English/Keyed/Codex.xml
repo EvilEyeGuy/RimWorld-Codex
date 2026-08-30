@@ -325,4 +325,14 @@
   <MOWiki_CE_ArmorBlunt>Penetration (blunt)</MOWiki_CE_ArmorBlunt>
   <MOWiki_CE_Speed>Projectile speed</MOWiki_CE_Speed>
   <MOWiki_CE_SharpShort>{0} sharp</MOWiki_CE_SharpShort>
+  <MOWiki_Site_HowToFind>How you come across it</MOWiki_Site_HowToFind>
+  <MOWiki_Site_ViaQuest>Shows up as a quest</MOWiki_Site_ViaQuest>
+  <MOWiki_Site_ViaFinder>Tracked down at the {0}</MOWiki_Site_ViaFinder>
+  <MOWiki_Site_Reveals>Places it can uncover</MOWiki_Site_Reveals>
+  <MOWiki_MO_ScanDays>{0} days of scanning</MOWiki_MO_ScanDays>
+  <MOWiki_MO_UnlockedBy>Searchable once a {0} is linked</MOWiki_MO_UnlockedBy>
+  <MOWiki_MO_UnlockedByMany>Searchable once {0} are linked: {1}</MOWiki_MO_UnlockedByMany>
+  <MOWiki_CE_Values>Combat Extended values</MOWiki_CE_Values>
+  <MOWiki_CE_BluntShort>{0} blunt</MOWiki_CE_BluntShort>
+  <MOWiki_CE_DamageShort>{0} damage</MOWiki_CE_DamageShort>
 </LanguageData>

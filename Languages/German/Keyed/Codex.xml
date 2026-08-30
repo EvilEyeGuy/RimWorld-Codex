@@ -325,4 +325,14 @@
   <MOWiki_CE_ArmorBlunt>Durchschlag (stumpf)</MOWiki_CE_ArmorBlunt>
   <MOWiki_CE_Speed>Geschossgeschwindigkeit</MOWiki_CE_Speed>
   <MOWiki_CE_SharpShort>{0} scharf</MOWiki_CE_SharpShort>
+  <MOWiki_Site_HowToFind>Wie du darauf stößt</MOWiki_Site_HowToFind>
+  <MOWiki_Site_ViaQuest>Taucht als Quest auf</MOWiki_Site_ViaQuest>
+  <MOWiki_Site_ViaFinder>Wird an der {0} aufgespürt</MOWiki_Site_ViaFinder>
+  <MOWiki_Site_Reveals>Orte, die sie aufdecken kann</MOWiki_Site_Reveals>
+  <MOWiki_MO_ScanDays>{0} Tage Suche</MOWiki_MO_ScanDays>
+  <MOWiki_MO_UnlockedBy>Suchbar, sobald eine {0} verbunden ist</MOWiki_MO_UnlockedBy>
+  <MOWiki_MO_UnlockedByMany>Suchbar ab {0} verbundenen: {1}</MOWiki_MO_UnlockedByMany>
+  <MOWiki_CE_Values>Combat-Extended-Werte</MOWiki_CE_Values>
+  <MOWiki_CE_BluntShort>{0} stumpf</MOWiki_CE_BluntShort>
+  <MOWiki_CE_DamageShort>{0} Schaden</MOWiki_CE_DamageShort>
 </LanguageData>
