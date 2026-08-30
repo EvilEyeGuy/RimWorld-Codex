@@ -269,7 +269,7 @@
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_InGame>Im Spiel ({0})</MOWiki_InGame>
-  <MOWiki_CombatExtended>Combat Extended ersetzt alle Fernkampfwerte. Die echten Zahlen stehen in der Info-Karte.</MOWiki_CombatExtended>
+  <MOWiki_CombatExtended>Diese Werte stammen aus Combat Extended, nicht aus Vanilla.</MOWiki_CombatExtended>
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
@@ -288,4 +288,41 @@
   <MOWiki_Xenotypes>Xenotypen</MOWiki_Xenotypes>
   <MOWiki_OpenCodex>Im Codex öffnen</MOWiki_OpenCodex>
 
+  <MOWiki_TraderBase>Siedlung: {0}</MOWiki_TraderBase>
+  <MOWiki_TraderVisitor>Besucher: {0}</MOWiki_TraderVisitor>
+  <MOWiki_TraderCaravan>Karawane: {0}</MOWiki_TraderCaravan>
+  <MOWiki_TraderOf>{0} ({1})</MOWiki_TraderOf>
+  <MOWiki_Page_Structure>Struktur</MOWiki_Page_Structure>
+  <MOWiki_Browse_Structures>Strukturen</MOWiki_Browse_Structures>
+  <MOWiki_Structure_Size>Grundfläche</MOWiki_Structure_Size>
+  <MOWiki_Structure_Cells>Belegte Felder</MOWiki_Structure_Cells>
+  <MOWiki_Structure_Contains>Woraus sie gebaut ist</MOWiki_Structure_Contains>
+  <MOWiki_Structure_Loot>Was hier zu holen ist</MOWiki_Structure_Loot>
+  <MOWiki_Structure_NoData>Für diese Struktur ist kein Grundriss lesbar.</MOWiki_Structure_NoData>
+  <MOWiki_Cell_Wall>Wand</MOWiki_Cell_Wall>
+  <MOWiki_Cell_Door>Tür</MOWiki_Cell_Door>
+  <MOWiki_Cell_Furniture>Möbel</MOWiki_Cell_Furniture>
+  <MOWiki_Cell_Item>Gegenstand</MOWiki_Cell_Item>
+  <MOWiki_Cell_Plant>Pflanze</MOWiki_Cell_Plant>
+  <MOWiki_Structure_Tier>Stufe {0}</MOWiki_Structure_Tier>
+  <MOWiki_Structure_TierSide>Stufe {0} ({1})</MOWiki_Structure_TierSide>
+  <MOWiki_Structure_Layouts>Grundriss</MOWiki_Structure_Layouts>
+  <MOWiki_Structure_Spoiler>Spoiler - zum Aufdecken klicken</MOWiki_Structure_Spoiler>
+  <MOWiki_Side_north>Nord</MOWiki_Side_north>
+  <MOWiki_Side_south>Süd</MOWiki_Side_south>
+  <MOWiki_Side_east>Ost</MOWiki_Side_east>
+  <MOWiki_Side_west>West</MOWiki_Side_west>
+  <MOWiki_ShowPlansSetting>Grundrisse ohne Spoiler-Abdeckung zeigen</MOWiki_ShowPlansSetting>
+  <MOWiki_CE_Magazine>Magazin</MOWiki_CE_Magazine>
+  <MOWiki_CE_Reload>Nachladezeit</MOWiki_CE_Reload>
+  <MOWiki_CE_Recoil>Rückstoß</MOWiki_CE_Recoil>
+  <MOWiki_CE_MinRange>Mindestreichweite</MOWiki_CE_MinRange>
+  <MOWiki_CE_Sights>Zielhilfe</MOWiki_CE_Sights>
+  <MOWiki_CE_Bulk>Sperrigkeit</MOWiki_CE_Bulk>
+  <MOWiki_CE_WornBulk>Sperrigkeit getragen</MOWiki_CE_WornBulk>
+  <MOWiki_CE_Ammo>Passende Munition</MOWiki_CE_Ammo>
+  <MOWiki_CE_ArmorSharp>Durchschlag (scharf)</MOWiki_CE_ArmorSharp>
+  <MOWiki_CE_ArmorBlunt>Durchschlag (stumpf)</MOWiki_CE_ArmorBlunt>
+  <MOWiki_CE_Speed>Geschossgeschwindigkeit</MOWiki_CE_Speed>
+  <MOWiki_CE_SharpShort>{0} scharf</MOWiki_CE_SharpShort>
 </LanguageData>

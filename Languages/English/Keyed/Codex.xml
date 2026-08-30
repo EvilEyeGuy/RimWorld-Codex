@@ -58,7 +58,7 @@
   <MOWiki_Occ_Container>Searching a {0}</MOWiki_Occ_Container>
   <MOWiki_Occ_Incident>Event: {0}</MOWiki_Occ_Incident>
   <MOWiki_Occ_Faction>Faction: {0}</MOWiki_Occ_Faction>
-  <MOWiki_Commonality>commonality {0}</MOWiki_Commonality>
+  <MOWiki_Commonality>Commonality {0}</MOWiki_Commonality>
 
   <!-- Row notes -->
   <MOWiki_Note_Temperature>ideal {0} °C, works {1} °C</MOWiki_Note_Temperature>
@@ -269,7 +269,7 @@
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_InGame>In game ({0})</MOWiki_InGame>
-  <MOWiki_CombatExtended>Combat Extended replaces all ranged values. See the info card for the real numbers.</MOWiki_CombatExtended>
+  <MOWiki_CombatExtended>These values come from Combat Extended, not from vanilla.</MOWiki_CombatExtended>
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
@@ -288,4 +288,41 @@
   <MOWiki_Xenotypes>Xenotypes</MOWiki_Xenotypes>
   <MOWiki_OpenCodex>Open in Codex</MOWiki_OpenCodex>
 
+  <MOWiki_TraderBase>{0} settlement</MOWiki_TraderBase>
+  <MOWiki_TraderVisitor>{0} visitors</MOWiki_TraderVisitor>
+  <MOWiki_TraderCaravan>{0} caravan</MOWiki_TraderCaravan>
+  <MOWiki_TraderOf>{0} ({1})</MOWiki_TraderOf>
+  <MOWiki_Page_Structure>Structure</MOWiki_Page_Structure>
+  <MOWiki_Browse_Structures>Structures</MOWiki_Browse_Structures>
+  <MOWiki_Structure_Size>Footprint</MOWiki_Structure_Size>
+  <MOWiki_Structure_Cells>Placed tiles</MOWiki_Structure_Cells>
+  <MOWiki_Structure_Contains>What it is built from</MOWiki_Structure_Contains>
+  <MOWiki_Structure_Loot>What you can loot here</MOWiki_Structure_Loot>
+  <MOWiki_Structure_NoData>This structure has no readable layout.</MOWiki_Structure_NoData>
+  <MOWiki_Cell_Wall>Wall</MOWiki_Cell_Wall>
+  <MOWiki_Cell_Door>Door</MOWiki_Cell_Door>
+  <MOWiki_Cell_Furniture>Furniture</MOWiki_Cell_Furniture>
+  <MOWiki_Cell_Item>Item</MOWiki_Cell_Item>
+  <MOWiki_Cell_Plant>Plant</MOWiki_Cell_Plant>
+  <MOWiki_Structure_Tier>Tier {0}</MOWiki_Structure_Tier>
+  <MOWiki_Structure_TierSide>Tier {0} ({1})</MOWiki_Structure_TierSide>
+  <MOWiki_Structure_Layouts>Layout</MOWiki_Structure_Layouts>
+  <MOWiki_Structure_Spoiler>Spoiler - click to reveal the floor plan</MOWiki_Structure_Spoiler>
+  <MOWiki_Side_north>North</MOWiki_Side_north>
+  <MOWiki_Side_south>South</MOWiki_Side_south>
+  <MOWiki_Side_east>East</MOWiki_Side_east>
+  <MOWiki_Side_west>West</MOWiki_Side_west>
+  <MOWiki_ShowPlansSetting>Show floor plans without the spoiler cover</MOWiki_ShowPlansSetting>
+  <MOWiki_CE_Magazine>Magazine</MOWiki_CE_Magazine>
+  <MOWiki_CE_Reload>Reload time</MOWiki_CE_Reload>
+  <MOWiki_CE_Recoil>Recoil</MOWiki_CE_Recoil>
+  <MOWiki_CE_MinRange>Minimum range</MOWiki_CE_MinRange>
+  <MOWiki_CE_Sights>Sight efficiency</MOWiki_CE_Sights>
+  <MOWiki_CE_Bulk>Bulk</MOWiki_CE_Bulk>
+  <MOWiki_CE_WornBulk>Worn bulk</MOWiki_CE_WornBulk>
+  <MOWiki_CE_Ammo>Ammunition it fires</MOWiki_CE_Ammo>
+  <MOWiki_CE_ArmorSharp>Penetration (sharp)</MOWiki_CE_ArmorSharp>
+  <MOWiki_CE_ArmorBlunt>Penetration (blunt)</MOWiki_CE_ArmorBlunt>
+  <MOWiki_CE_Speed>Projectile speed</MOWiki_CE_Speed>
+  <MOWiki_CE_SharpShort>{0} sharp</MOWiki_CE_SharpShort>
 </LanguageData>
