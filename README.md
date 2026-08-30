@@ -7,21 +7,21 @@ to cover its unique mechanics, and stays fully usable with any other mod setup.
 
 For any item it answers the two questions the game itself never answers: where
 does this come from, and what is it for. Everything is linked, so you can follow
-a chain instead of guessing — from a locked research to the schematic it needs,
+a chain instead of guessing, from a locked research to the schematic it needs,
 to the ruin that schematic drops in and the odds of finding it there.
 
 ## What it covers
 
-- **Items, buildings, plants and materials** — recipes, processing chains,
+- **Items, buildings, plants and materials**: recipes, processing chains,
   mining, harvesting, smelting, construction costs and stats
-- **Creatures** — combat power, armour, attacks with damage per second, and where
+- **Creatures**: combat power, armour, attacks with damage per second, and where
   they occur: biomes with commonality, events, factions, or the container they
   hide in
-- **Pawns** — every pawn kind with its faction variants, skills, possible weapons
+- **Pawns**: every pawn kind with its faction variants, skills, possible weapons
   and apparel, plus a generated example
 - **Factions, traders and royal titles**, including full room and apparel
   requirements
-- **Research** — what it unlocks, what it leads to, and what blocks it:
+- **Research**: what it unlocks, what it leads to, and what blocks it, meaning
   schematics, techprints, benches and prerequisites
 
 Nothing is hard-coded. The index is generated at runtime from whatever mods you
