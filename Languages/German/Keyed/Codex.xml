@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MOWiki_Title>Codex</MOWiki_Title>
+  <MOWiki_ButtonTip>Codex - woher Dinge kommen und wofür sie gut sind</MOWiki_ButtonTip>
+  <MOWiki_Count>{0} von {1}</MOWiki_Count>
+
+  <!-- Filter der linken Spalte -->
+  <MOWiki_Browse_All>Alle</MOWiki_Browse_All>
+  <MOWiki_Browse_Items>Gegenstände</MOWiki_Browse_Items>
+  <MOWiki_Browse_Buildings>Gebäude</MOWiki_Browse_Buildings>
+  <MOWiki_Browse_Animals>Tiere</MOWiki_Browse_Animals>
+  <MOWiki_Browse_Pawns>Pawns</MOWiki_Browse_Pawns>
+
+  <!-- Was fuer eine Seite das ist -->
+  <MOWiki_Page_Item>Gegenstand</MOWiki_Page_Item>
+  <MOWiki_Page_Building>Gebäude</MOWiki_Page_Building>
+  <MOWiki_Page_Plant>Pflanze</MOWiki_Page_Plant>
+  <MOWiki_Page_Creature>Kreatur</MOWiki_Page_Creature>
+  <MOWiki_Page_Pawn>Pawn</MOWiki_Page_Pawn>
+  <MOWiki_Page_Recipe>Rezept</MOWiki_Page_Recipe>
+  <MOWiki_Page_Process>Prozess</MOWiki_Page_Process>
+  <MOWiki_Page_Research>Forschung</MOWiki_Page_Research>
+
+  <!-- Abschnitte -->
+  <MOWiki_Sources>Woher</MOWiki_Sources>
+  <MOWiki_Uses>Wofür</MOWiki_Uses>
+  <MOWiki_Yields>Ergibt</MOWiki_Yields>
+  <MOWiki_Needs>Braucht</MOWiki_Needs>
+  <MOWiki_Contains>Enthält</MOWiki_Contains>
+  <MOWiki_Consumes>Wird hier hergestellt aus</MOWiki_Consumes>
+  <MOWiki_RunsAt>Läuft an</MOWiki_RunsAt>
+  <MOWiki_NeedsSchematic>Braucht Bauplan</MOWiki_NeedsSchematic>
+  <MOWiki_NoSchematic>Kein Bauplan nötig — direkt erforschbar.</MOWiki_NoSchematic>
+  <MOWiki_Prerequisites>Setzt Forschung voraus</MOWiki_Prerequisites>
+  <MOWiki_Unlocks>Schaltet frei</MOWiki_Unlocks>
+  <MOWiki_Profile>Steckbrief</MOWiki_Profile>
+  <MOWiki_Occurrence>Vorkommen</MOWiki_Occurrence>
+  <MOWiki_NoOccurrence>Kein natürliches Vorkommen hinterlegt.</MOWiki_NoOccurrence>
+  <MOWiki_Attacks>Angriffe</MOWiki_Attacks>
+
+  <!-- Steckbrief. Werte stehen ueber {0} ausserhalb des Satzes, damit die
+       Wortstellung in anderen Sprachen frei bleibt. -->
+  <MOWiki_Stat_CombatPower>Kampfkraft</MOWiki_Stat_CombatPower>
+  <MOWiki_Stat_Toughness>Zähigkeit</MOWiki_Stat_Toughness>
+  <MOWiki_Stat_BodySize>Körpergröße</MOWiki_Stat_BodySize>
+  <MOWiki_Stat_Behaviour>Verhalten</MOWiki_Stat_Behaviour>
+  <MOWiki_Stat_Taming>Zähmen</MOWiki_Stat_Taming>
+  <MOWiki_Stat_LifeExpectancy>Lebenserwartung</MOWiki_Stat_LifeExpectancy>
+  <MOWiki_Stat_Speed>Tempo</MOWiki_Stat_Speed>
+  <MOWiki_Stat_ArmorSharp>Rüstung scharf</MOWiki_Stat_ArmorSharp>
+  <MOWiki_Stat_ArmorBlunt>Rüstung stumpf</MOWiki_Stat_ArmorBlunt>
+  <MOWiki_Predator>Raubtier</MOWiki_Predator>
+  <MOWiki_AttackValues>{0} Schaden · {1} s · {2}/s</MOWiki_AttackValues>
+
+  <!-- Vorkommen. {0} ist Biom, Behälter, Ereignis oder Fraktion. -->
+  <MOWiki_Occ_Biome>{0}</MOWiki_Occ_Biome>
+  <MOWiki_Occ_Container>Beim Durchsuchen: {0}</MOWiki_Occ_Container>
+  <MOWiki_Occ_Incident>Ereignis: {0}</MOWiki_Occ_Incident>
+  <MOWiki_Occ_Faction>Fraktion: {0}</MOWiki_Occ_Faction>
+  <MOWiki_Commonality>Häufigkeit {0}</MOWiki_Commonality>
+
+  <!-- Zusätze an einzelnen Zeilen -->
+  <MOWiki_Note_Temperature>ideal {0} °C, läuft {1} °C</MOWiki_Note_Temperature>
+  <MOWiki_Note_OneOf>eines von {0}</MOWiki_Note_OneOf>
+  <MOWiki_Note_Draws>{0} Ziehungen</MOWiki_Note_Draws>
+  <MOWiki_ShowMore>{0} weitere anzeigen</MOWiki_ShowMore>
+
+  <!-- Medieval Overhauls ProcessDefs haben kein Label, deshalb wird ein
+       Prozess nach dem benannt, was er tut. {0} Ergebnis, {1} Zutat. -->
+  <MOWiki_ProcessName>{0} aus {1}</MOWiki_ProcessName>
+
+  <!-- Arten von Kanten -->
+  <MOWiki_Kind_Recipe>Rezept</MOWiki_Kind_Recipe>
+  <MOWiki_Kind_Process>Verarbeitung</MOWiki_Kind_Process>
+  <MOWiki_Kind_ProcessBonus>Nebenprodukt</MOWiki_Kind_ProcessBonus>
+  <MOWiki_Kind_Butcher>Schlachten</MOWiki_Kind_Butcher>
+  <MOWiki_Kind_ButcherExtra>Schlachten (Chance)</MOWiki_Kind_ButcherExtra>
+  <MOWiki_Kind_DeathDrop>Fällt beim Tod</MOWiki_Kind_DeathDrop>
+  <MOWiki_Kind_PlantHarvest>Ernte</MOWiki_Kind_PlantHarvest>
+  <MOWiki_Kind_PlantSecondary>Zusatzdrop der Pflanze</MOWiki_Kind_PlantSecondary>
+  <MOWiki_Kind_Mine>Abbau</MOWiki_Kind_Mine>
+  <MOWiki_Kind_Smelt>Einschmelzen</MOWiki_Kind_Smelt>
+  <MOWiki_Kind_Loot>Durchsuchbarer Fund</MOWiki_Kind_Loot>
+  <MOWiki_Kind_Schematic>Bauplan</MOWiki_Kind_Schematic>
+  <MOWiki_Kind_TraderSells>Wird verkauft von</MOWiki_Kind_TraderSells>
+  <MOWiki_Kind_TraderBuys>Wird angekauft von</MOWiki_Kind_TraderBuys>
+  <MOWiki_Kind_Building>Bau</MOWiki_Kind_Building>
+  <MOWiki_Kind_CostList>Herstellung</MOWiki_Kind_CostList>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Requires>Voraussetzungen</MOWiki_Requires>
+  <MOWiki_ResearchNeeded>Forschung: {0}</MOWiki_ResearchNeeded>
+  <MOWiki_NoResearchNeeded>Keine Forschung nötig.</MOWiki_NoResearchNeeded>
+  <MOWiki_SkillLevel>Stufe {0}</MOWiki_SkillLevel>
+  <MOWiki_Work>Arbeitsaufwand</MOWiki_Work>
+  <MOWiki_Duration>Dauer</MOWiki_Duration>
+  <MOWiki_Days>{0} Tage</MOWiki_Days>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Browse_Factions>Fraktionen</MOWiki_Browse_Factions>
+  <MOWiki_Page_Faction>Fraktion</MOWiki_Page_Faction>
+  <MOWiki_Stat_Faction>Fraktion</MOWiki_Stat_Faction>
+  <MOWiki_Stat_Race>Rasse</MOWiki_Stat_Race>
+  <MOWiki_Stat_TechLevel>Techstufe</MOWiki_Stat_TechLevel>
+  <MOWiki_Stat_ApparelBudget>Kleidungsbudget</MOWiki_Stat_ApparelBudget>
+  <MOWiki_Stat_WeaponBudget>Waffenbudget</MOWiki_Stat_WeaponBudget>
+  <MOWiki_Stat_Relation>Ansehen</MOWiki_Stat_Relation>
+  <MOWiki_Stat_Leader>Anführer</MOWiki_Stat_Leader>
+  <MOWiki_Stat_Hostile>Feindlich</MOWiki_Stat_Hostile>
+  <MOWiki_Yes>ja</MOWiki_Yes>
+  <MOWiki_No>nein</MOWiki_No>
+  <MOWiki_Weapons>Mögliche Waffen</MOWiki_Weapons>
+  <MOWiki_Apparel>Mögliche Kleidung</MOWiki_Apparel>
+  <MOWiki_ApparelRequired>Trägt immer</MOWiki_ApparelRequired>
+  <MOWiki_FactionPawns>Truppen</MOWiki_FactionPawns>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_ViaSchematic>Braucht Bauplan: {0}</MOWiki_ViaSchematic>
+  <MOWiki_ViaTechprint>Braucht {0} Techprints</MOWiki_ViaTechprint>
+  <MOWiki_ViaBench>Braucht Werkbank: {0}</MOWiki_ViaBench>
+  <MOWiki_ViaPrereq>Erst nach Forschung: {0}</MOWiki_ViaPrereq>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_AnySource>Alle Quellen</MOWiki_AnySource>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Values>Werte</MOWiki_Values>
+  <MOWiki_LeadsTo>Forschung: {0}</MOWiki_LeadsTo>
+  <MOWiki_Seconds>{0} s</MOWiki_Seconds>
+  <MOWiki_Stat_Range>Reichweite</MOWiki_Stat_Range>
+  <MOWiki_Stat_Warmup>Anlegen</MOWiki_Stat_Warmup>
+  <MOWiki_Stat_Burst>Salve</MOWiki_Stat_Burst>
+  <MOWiki_Stat_Damage>Schaden</MOWiki_Stat_Damage>
+  <MOWiki_Stat_Penetration>Durchschlag</MOWiki_Stat_Penetration>
+  <MOWiki_Stat_Cooldown>Nachladen</MOWiki_Stat_Cooldown>
+  <MOWiki_Stat_AccuracyShort>Treffer nah</MOWiki_Stat_AccuracyShort>
+  <MOWiki_Stat_AccuracyMedium>Treffer mittel</MOWiki_Stat_AccuracyMedium>
+  <MOWiki_Stat_AccuracyLong>Treffer weit</MOWiki_Stat_AccuracyLong>
+  <MOWiki_Stat_ArmorHeat>Rüstung Hitze</MOWiki_Stat_ArmorHeat>
+  <MOWiki_Stat_InsulationCold>Isolierung Kälte</MOWiki_Stat_InsulationCold>
+  <MOWiki_Stat_InsulationHeat>Isolierung Hitze</MOWiki_Stat_InsulationHeat>
+  <MOWiki_Stat_Covers>Bedeckt</MOWiki_Stat_Covers>
+  <MOWiki_Stat_Value>Marktwert</MOWiki_Stat_Value>
+  <MOWiki_Stat_Mass>Masse</MOWiki_Stat_Mass>
+  <MOWiki_Stat_HitPoints>Haltbarkeit</MOWiki_Stat_HitPoints>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_OwnColony>deine Kolonie</MOWiki_OwnColony>
+  <MOWiki_PageFailed>Diese Seite konnte nicht gebaut werden. Details im Log.</MOWiki_PageFailed>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Kind_ProcessedInto>Wird verarbeitet zu</MOWiki_Kind_ProcessedInto>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Kind_Corpse>Leiche von</MOWiki_Kind_Corpse>
+  <MOWiki_Home>Start</MOWiki_Home>
+  <MOWiki_HomeIntro>Dieser Codex wird aus den Defs gebaut, die in deinem Spiel tatsächlich geladen sind. Jeder Eintrag beantwortet die zwei Fragen, die das Spiel selbst nicht beantwortet: woher kommt das, und wofür ist es gut. Mit Drop-Chancen, Fund-Prozenten, Verarbeitungszeiten und Forschungssperren.</MOWiki_HomeIntro>
+  <MOWiki_HomeContents>Inhalt</MOWiki_HomeContents>
+  <MOWiki_HomeHints>So funktioniert es</MOWiki_HomeHints>
+  <MOWiki_HomeHint1>Suche nach Name oder defName, oder grenze die Liste mit den Kategorie-Knöpfen ein.</MOWiki_HomeHint1>
+  <MOWiki_HomeHint2>Die Ausklappliste filtert danach, woher etwas kommt: Schlachten, Fund, Verarbeitung und so weiter.</MOWiki_HomeHint2>
+  <MOWiki_HomeHint3>Alles ist verlinkt. Rezepte, Kreaturen, Forschungen und Fraktionen haben eigene Seiten.</MOWiki_HomeHint3>
+  <MOWiki_HomeHint4>Mit den Pfeilen oben links geht es zurück und vorwärts.</MOWiki_HomeHint4>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Browse_Traders>Händler</MOWiki_Browse_Traders>
+  <MOWiki_Page_Trader>Händler</MOWiki_Page_Trader>
+  <MOWiki_Sells>Verkauft</MOWiki_Sells>
+  <MOWiki_Buys>Kauft an</MOWiki_Buys>
+  <MOWiki_Variants>Varianten</MOWiki_Variants>
+  <MOWiki_Category>Kategorie</MOWiki_Category>
+  <MOWiki_VariantOf>{0} Varianten</MOWiki_VariantOf>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_AnyCategory>Alle Kategorien</MOWiki_AnyCategory>
+  <MOWiki_Entries>Einträge</MOWiki_Entries>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_SearchPage>Auf dieser Seite suchen ...</MOWiki_SearchPage>
+  <MOWiki_SoldBy>Wird verkauft von</MOWiki_SoldBy>
+  <MOWiki_BoughtBy>Wird angekauft von</MOWiki_BoughtBy>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_TraderFactions>Kommt von</MOWiki_TraderFactions>
+  <MOWiki_NoFaction>Keine Fraktion - Orbital- oder Sonderhändler.</MOWiki_NoFaction>
+  <MOWiki_Skills>Fertigkeiten</MOWiki_Skills>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_SettingsSize>Fenstergröße: {0} x {1}</MOWiki_SettingsSize>
+  <MOWiki_SettingsReset>Fenstergröße zurücksetzen</MOWiki_SettingsReset>
+
+  <MOWiki_Stat_Ideology>Ideologie</MOWiki_Stat_Ideology>
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Functions>Funktionen</MOWiki_Functions>
+  <MOWiki_Fn_FuelCapacity>Brennstoff-Fassung</MOWiki_Fn_FuelCapacity>
+  <MOWiki_Fn_FuelPerDay>Verbrauch pro Tag</MOWiki_Fn_FuelPerDay>
+  <MOWiki_Fn_FuelType>Läuft mit</MOWiki_Fn_FuelType>
+  <MOWiki_Fn_PowerUse>Stromverbrauch</MOWiki_Fn_PowerUse>
+  <MOWiki_Fn_PowerGen>Stromerzeugung</MOWiki_Fn_PowerGen>
+  <MOWiki_Fn_ScanDays>Fund alle (Tage)</MOWiki_Fn_ScanDays>
+  <MOWiki_Fn_ScanGuaranteed>Garantiert nach (Tage)</MOWiki_Fn_ScanGuaranteed>
+  <MOWiki_Fn_LightRadius>Lichtradius</MOWiki_Fn_LightRadius>
+  <MOWiki_Fn_Heat>Wärme pro Sekunde</MOWiki_Fn_Heat>
+  <MOWiki_Fn_RotDays>Verdirbt nach (Tage)</MOWiki_Fn_RotDays>
+  <MOWiki_Fn_LinkRange>Verbindungsreichweite</MOWiki_Fn_LinkRange>
+  <MOWiki_Fn_LinkSlots>Verbindungsplätze</MOWiki_Fn_LinkSlots>
+  <MOWiki_Fn_Linkable>Verbessert durch: {0}</MOWiki_Fn_Linkable>
+  <MOWiki_Fn_MealSource>Mahlzeitenquelle</MOWiki_Fn_MealSource>
+  <MOWiki_Fn_HaulDuration>Befülldauer</MOWiki_Fn_HaulDuration>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Mechanics>Besondere Mechanik</MOWiki_Mechanics>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_MO_Discovers>Findet</MOWiki_MO_Discovers>
+  <MOWiki_MO_ScanSpeed>Tempo abhängig von</MOWiki_MO_ScanSpeed>
+  <MOWiki_MO_Consumes>Verbraucht: {0}</MOWiki_MO_Consumes>
+  <MOWiki_MO_QuestFaction>Fraktion: {0}</MOWiki_MO_QuestFaction>
+  <MOWiki_MO_QuestFactionMissing>{0} existiert in dieser Welt nicht - das erscheint nie</MOWiki_MO_QuestFactionMissing>
+  <MOWiki_MO_Slop>Suppentopf</MOWiki_MO_Slop>
+  <MOWiki_MO_SlopHint>Kolonisten essen direkt aus dem Topf, statt Mahlzeiten zu tragen.</MOWiki_MO_SlopHint>
+  <MOWiki_MO_SlopCapacity>Portionen</MOWiki_MO_SlopCapacity>
+  <MOWiki_MO_Produces>Erzeugt mit der Zeit</MOWiki_MO_Produces>
+  <MOWiki_MO_Melts>Schmilzt</MOWiki_MO_Melts>
+  <MOWiki_MO_MeltsHint>Schmilzt über dem Gefrierpunkt.</MOWiki_MO_MeltsHint>
+  <MOWiki_MO_Cures>Heilt beim Schlafen</MOWiki_MO_Cures>
+  <MOWiki_MO_SpawnsOnDestroy>Setzt beim Zerstören frei</MOWiki_MO_SpawnsOnDestroy>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_AnyMod>Alle Mods</MOWiki_AnyMod>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Browse_Titles>Ränge</MOWiki_Browse_Titles>
+  <MOWiki_Page_Title>Rang</MOWiki_Page_Title>
+  <MOWiki_Title_Seniority>Rangstufe</MOWiki_Title_Seniority>
+  <MOWiki_Title_FavorCost>Ehre-Kosten</MOWiki_Title_FavorCost>
+  <MOWiki_Title_Expectation>Mindesterwartung</MOWiki_Title_Expectation>
+  <MOWiki_Title_HeirPoints>Erben-Questpunkte</MOWiki_Title_HeirPoints>
+  <MOWiki_Title_Apparel>Kleidungspflicht</MOWiki_Title_Apparel>
+  <MOWiki_Title_ThroneRoom>Thronsaal</MOWiki_Title_ThroneRoom>
+  <MOWiki_Title_Bedroom>Schlafzimmer</MOWiki_Title_Bedroom>
+  <MOWiki_Title_Permits>Befugnisse</MOWiki_Title_Permits>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Title_AnyOf>Eines davon</MOWiki_Title_AnyOf>
+  <MOWiki_Title_AnyOfCount>{0} davon</MOWiki_Title_AnyOfCount>
+  <MOWiki_Title_Food>Essensanspruch</MOWiki_Title_Food>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_InGame>Im Spiel ({0})</MOWiki_InGame>
+  <MOWiki_CombatExtended>Combat Extended ersetzt alle Fernkampfwerte. Die echten Zahlen stehen in der Info-Karte.</MOWiki_CombatExtended>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_CycleHint>Nochmal klicken für die nächste von {0}</MOWiki_CycleHint>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Live_Stored>Im Lager</MOWiki_Live_Stored>
+  <MOWiki_Live_Ground>Liegt herum</MOWiki_Live_Ground>
+  <MOWiki_Live_Carried>Bei {0}</MOWiki_Live_Carried>
+  <MOWiki_Live_Caravan>Karawane {0}</MOWiki_Live_Caravan>
+
+
+  <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_AppearsIn>Erscheint in</MOWiki_AppearsIn>
+  <MOWiki_Xenotypes>Xenotypen</MOWiki_Xenotypes>
+  <MOWiki_OpenCodex>Im Codex öffnen</MOWiki_OpenCodex>
+
+</LanguageData>
