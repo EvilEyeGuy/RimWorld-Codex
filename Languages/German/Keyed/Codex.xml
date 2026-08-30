@@ -337,4 +337,6 @@
   <MOWiki_CE_DamageShort>{0} Schaden</MOWiki_CE_DamageShort>
   <MOWiki_BuildingStart>Codex liest deine Mods ein ...</MOWiki_BuildingStart>
   <MOWiki_Building>Codex: Schritt {0} von {1}, {2}</MOWiki_Building>
+  <MOWiki_NoSource>Kein geladener Def stellt das her. Es kann aus einem Ereignis, einer Questbelohnung oder dem Spielcode selbst stammen.</MOWiki_NoSource>
+  <MOWiki_Kind_Extract>Schädel entnehmen</MOWiki_Kind_Extract>
 </LanguageData>

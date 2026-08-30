@@ -52,8 +52,14 @@ ammunition type the weapon fires with its armour penetration.
 ## Performance
 
 Nothing is built at startup. The index is created the first time you open the
-window, which takes a fraction of a second. If you never open it, it costs
+window, and it runs as a loading event with a progress readout, so a very large
+mod list does not look like a freeze. If you never open the window, it costs
 nothing.
+
+Drawing was measured with Dubs Performance Analyzer. With the window open on its
+heaviest page it costs about 0.8 ms per frame, which is less than the vanilla
+work tab at 1.1 ms and roughly a quarter of the vanilla research tree at 3.6 ms.
+The live occurrence lookup refreshes every few seconds and does not register.
 
 ## Usage
 
