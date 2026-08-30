@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MOWiki_Title>Codex</MOWiki_Title>
@@ -324,7 +324,6 @@
   <MOWiki_CE_ArmorSharp>Durchschlag (scharf)</MOWiki_CE_ArmorSharp>
   <MOWiki_CE_ArmorBlunt>Durchschlag (stumpf)</MOWiki_CE_ArmorBlunt>
   <MOWiki_CE_Speed>Geschossgeschwindigkeit</MOWiki_CE_Speed>
-  <MOWiki_CE_SharpShort>{0} scharf</MOWiki_CE_SharpShort>
   <MOWiki_Site_HowToFind>Wie du darauf stößt</MOWiki_Site_HowToFind>
   <MOWiki_Site_ViaQuest>Taucht als Quest auf</MOWiki_Site_ViaQuest>
   <MOWiki_Site_ViaFinder>Wird an der {0} aufgespürt</MOWiki_Site_ViaFinder>
@@ -333,10 +332,12 @@
   <MOWiki_MO_UnlockedBy>Suchbar, sobald eine {0} verbunden ist</MOWiki_MO_UnlockedBy>
   <MOWiki_MO_UnlockedByMany>Suchbar ab {0} verbundenen: {1}</MOWiki_MO_UnlockedByMany>
   <MOWiki_CE_Values>Combat-Extended-Werte</MOWiki_CE_Values>
-  <MOWiki_CE_BluntShort>{0} stumpf</MOWiki_CE_BluntShort>
-  <MOWiki_CE_DamageShort>{0} Schaden</MOWiki_CE_DamageShort>
   <MOWiki_BuildingStart>Codex liest deine Mods ein ...</MOWiki_BuildingStart>
   <MOWiki_Building>Codex: Schritt {0} von {1}, {2}</MOWiki_Building>
   <MOWiki_NoSource>Kein geladener Def stellt das her. Es kann aus einem Ereignis, einer Questbelohnung oder dem Spielcode selbst stammen.</MOWiki_NoSource>
   <MOWiki_Kind_Extract>Schädel entnehmen</MOWiki_Kind_Extract>
+  <MOWiki_Kind_Deconstruct>Abbauen</MOWiki_Kind_Deconstruct>
+  <MOWiki_CE_DamageShort>{0} Schaden</MOWiki_CE_DamageShort>
+  <MOWiki_PickerSearch>Tippen zum Filtern ...</MOWiki_PickerSearch>
+  <MOWiki_Kind_Reward>Enthalten in</MOWiki_Kind_Reward>
 </LanguageData>
