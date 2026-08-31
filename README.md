@@ -4,9 +4,15 @@
 
 A dynamic in-game encyclopedia that connects items, creatures, recipes, research,
 workbenches and more across your loaded mods. On a normal medieval modlist that
-comes to around 7300 pages. It has extra support for
-[Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926)
-to cover its unique mechanics, and stays fully usable with any other mod setup.
+comes to around 7300 pages.
+
+I play [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926),
+and the same questions kept coming up there. Where does this drop, what is that
+schematic for, which container hides the mimic. Instead of answering them one at
+a time I built something that reads the answers out of the game itself. It could
+have been a Medieval Overhaul wiki, but it reads definitions rather than a
+hand-written list, so it works on any modlist. Medieval Overhaul simply gets the
+deepest coverage, because that is where I needed it first.
 
 For any item it answers the two questions the game itself never answers: where
 does this come from, and what is it for. Everything is linked, so you can follow
