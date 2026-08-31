@@ -1,10 +1,10 @@
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/01_introduction.png?v=4[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/01_introduction.png?v=5[/img]
 
 Codex is built the moment you open it, out of the mods you actually have loaded. Nothing in it is written by hand, so it stays correct when a mod updates, and it covers modded content exactly the way it covers vanilla.
 
 On a normal medieval modlist that comes to about 7300 pages: items, buildings, creatures, factions, traders, research, ruins, quests, genes, memes and precepts, abilities, health conditions, traits and backstories.
 
-I play Medieval Overhaul, and the same questions kept coming up there. Where does this drop, what is that schematic for, which container hides the mimic. Instead of answering them one at a time I built something that reads the answers out of the game itself. It could have been a Medieval Overhaul wiki, but it reads definitions rather than a hand-written list, so it works on any modlist. Medieval Overhaul simply gets the deepest coverage, because that is where I needed it first.
+I work on Medieval Overhaul, and the same questions keep coming back. Where does this come from. How do I process it. What am I supposed to do with a golem corpse. Codex was built to answer them, and it answers them out of the game's own definitions rather than out of a forum thread, so it answers a great deal more besides. Nothing in it is tied to Medieval Overhaul, which is why it works on any modlist. Medieval Overhaul simply gets the deepest coverage, because that is where the questions started.
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png?v=2[/img]
 
