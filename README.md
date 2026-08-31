@@ -6,13 +6,14 @@ A dynamic in-game encyclopedia that connects items, creatures, recipes, research
 workbenches and more across your loaded mods. On a normal medieval modlist that
 comes to around 7300 pages.
 
-I play [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926),
-and the same questions kept coming up there. Where does this drop, what is that
-schematic for, which container hides the mimic. Instead of answering them one at
-a time I built something that reads the answers out of the game itself. It could
-have been a Medieval Overhaul wiki, but it reads definitions rather than a
-hand-written list, so it works on any modlist. Medieval Overhaul simply gets the
-deepest coverage, because that is where I needed it first.
+I work on [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926),
+and the same questions keep coming back. Where does this come from. How do I
+process it. What am I supposed to do with a golem corpse. Codex was built to
+answer them, and it answers them out of the game's own definitions rather than
+out of a forum thread, so it answers a great deal more besides. Nothing in it is
+tied to Medieval Overhaul, which is why it works on any modlist. Medieval
+Overhaul simply gets the deepest coverage, because that is where the questions
+started.
 
 For any item it answers the two questions the game itself never answers: where
 does this come from, and what is it for. Everything is linked, so you can follow
