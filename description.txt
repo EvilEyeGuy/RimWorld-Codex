@@ -26,7 +26,7 @@ The window remembers the page you were on, so the button in the corner picks up 
 
 No patches to install, no compatibility list to maintain. A mod that adds items, recipes, research or traders appears on its own, including mods released long after this one.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=3[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=4[/img]
 
 Content from an expansion says so. The badge in the corner of a page names Royalty, Ideology, Biotech, Anomaly or Odyssey the same way it names a mod, so you can tell at a glance where something came from.
 
