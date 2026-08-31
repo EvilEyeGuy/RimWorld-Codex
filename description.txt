@@ -26,9 +26,9 @@ No patches to install, no compatibility list to maintain. A mod that adds items,
 
 Ruins and hideouts are drawn as floor plans, in the colours of the materials they are built from, with every possible layout as its own tab. A floor plan gives away what waits inside, so it starts blurred and uncovers on a click. You can switch that off in the mod settings.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=3[/img]
 
-The index is built once per session, the first time you open the Codex. On a large modlist that takes a moment, so it runs as a proper loading screen with a progress readout instead of a frozen game. Every later opening is instant.
+The index is built once per session, the first time you open the Codex. On a large modlist that takes a moment, so it runs as a proper loading screen with a progress readout instead of a frozen game. Every later opening is instant. With the window open on its heaviest page, drawing costs about 1 ms per frame, roughly the same as the vanilla work tab and a fifth of the vanilla research tree. The small panel costs about a quarter of that, so you can leave it sitting beside the game.
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png?v=2[/img]
 
