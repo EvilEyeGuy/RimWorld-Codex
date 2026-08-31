@@ -1,10 +1,14 @@
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/01_introduction.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/01_introduction.png?v=3[/img]
 
 Codex is built the moment you open it, out of the mods you actually have loaded. Nothing in it is written by hand, so it stays correct when a mod updates, and it covers modded content exactly the way it covers vanilla.
+
+On a normal medieval modlist that comes to about 7300 pages: items, buildings, creatures, factions, traders, research, ruins, quests, genes, memes and precepts, abilities, health conditions, traits and backstories.
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png?v=2[/img]
 
 Every page answers the same two questions: where does this come from, and what is it for. Both answers are lists of links, so you can walk a chain instead of guessing. From a locked research to the schematic it needs, to the ruin that schematic drops in, to the odds of finding it there.
+
+A condition walks its stages with pain, capacities and stats for each one, then names what causes it and what cures it. A quest says where it takes you, when it expires and which quest it hangs off. A precept says what it does to mood and on which occasion. A backstory says what it teaches, what work it rules out for life, and who turns up with it.
 
 Anything built from a material carries a picker. Choose granite instead of wood and the market value, the mass, the hit points, the beauty and the work all follow. Click the Codex button on something standing on your map and it opens already set to the material that thing is made of.
 
@@ -22,13 +26,15 @@ The window remembers the page you were on, so the button in the corner picks up 
 
 No patches to install, no compatibility list to maintain. A mod that adds items, recipes, research or traders appears on its own, including mods released long after this one.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=3[/img]
+
+Content from an expansion says so. The badge in the corner of a page names Royalty, Ideology, Biotech, Anomaly or Odyssey the same way it names a mod, so you can tell at a glance where something came from.
 
 Ruins and hideouts are drawn as floor plans, in the colours of the materials they are built from, with every possible layout as its own tab. A floor plan gives away what waits inside, so it starts blurred and uncovers on a click. You can switch that off in the mod settings.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=3[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=4[/img]
 
-The index is built once per session, the first time you open the Codex. On a large modlist that takes a moment, so it runs as a proper loading screen with a progress readout instead of a frozen game. Every later opening is instant. With the window open on its heaviest page, drawing costs about 1 ms per frame, roughly the same as the vanilla work tab and a fifth of the vanilla research tree. The small panel costs about a quarter of that, so you can leave it sitting beside the game.
+The index is built once per session, the first time you open the Codex. On a large modlist that takes a moment, so it runs as a proper loading screen with a progress readout instead of a frozen game. Every later opening is instant. With the window open on its heaviest page, drawing costs about 1 ms per frame, roughly the same as the vanilla work tab and a fifth of the vanilla research tree. The small panel costs a quarter of that, so you can leave it sitting beside the game.
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png?v=2[/img]
 
