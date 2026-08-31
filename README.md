@@ -1,6 +1,6 @@
 # Codex: A RimWorld Encyclopedia
 
-![Codex](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/preview.png?v=2)
+![Codex](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/preview.png?v=3)
 
 A dynamic in-game encyclopedia that connects items, creatures, recipes, research,
 workbenches and more across your loaded mods. On a normal medieval modlist that
