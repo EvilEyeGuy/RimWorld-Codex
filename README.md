@@ -1,6 +1,6 @@
 # Codex: A RimWorld Encyclopedia
 
-![Codex](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/preview.png)
+![Codex](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/preview.png?v=2)
 
 A dynamic in-game encyclopedia that connects items, creatures, recipes, research,
 workbenches and more across your loaded mods. It has extra support for
@@ -14,7 +14,7 @@ to the ruin that schematic drops in and the odds of finding it there.
 
 ## What it covers
 
-![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png)
+![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png?v=2)
 
 - **Items, buildings, plants and materials**: recipes, processing chains,
   mining, harvesting, smelting, construction costs and stats
@@ -48,7 +48,7 @@ container a mimic is hiding in, and what the Explorer's Workbench can discover.
 
 ## Two ways to read a page
 
-![Two ways to read it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png)
+![Two ways to read it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png?v=2)
 
 Every page starts with the two questions it exists for open and the rest folded
 away, with a count on each folded heading. The button in the top right corner
@@ -61,11 +61,11 @@ follow. Opening the Codex from something on your map sets the material for you.
 
 ## What it reads
 
-![What it reads](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png)
+![What it reads](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=2)
 
 ## Works with anything
 
-![Works with](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_works_with.png)
+![Works with](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_works_with.png?v=2)
 
 ## Combat Extended
 
@@ -76,7 +76,7 @@ ammunition type the weapon fires with its armour penetration.
 
 ## Performance
 
-![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png)
+![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=2)
 
 Nothing is built at startup. The index is created the first time you open the
 window, and it runs as a loading event with a progress readout, so a very large
@@ -90,17 +90,17 @@ The live occurrence lookup refreshes every few seconds and does not register.
 
 ## Usage
 
-![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png)
+![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png?v=2)
 
 Open it with the book button in the toggle row at the bottom right.
 
 ## Questions
 
-![FAQ](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png)
+![FAQ](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png?v=2)
 
 ## Credits
 
-![Credits](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/09_credits.png)
+![Credits](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/09_credits.png?v=2)
 
 ## Requirements
 

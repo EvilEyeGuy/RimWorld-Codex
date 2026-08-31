@@ -368,4 +368,5 @@
   <MOWiki_Stat_Work>Work to build</MOWiki_Stat_Work>
   <MOWiki_View_Minimal>Switch to the short view: where it comes from, what it is for, what it does</MOWiki_View_Minimal>
   <MOWiki_View_Full>Switch back to the full view with filters and numbers</MOWiki_View_Full>
+  <MOWiki_SearchAll>Search ...</MOWiki_SearchAll>
 </LanguageData>
