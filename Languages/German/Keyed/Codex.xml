@@ -503,4 +503,6 @@
   <MOWiki_Bs_Always>immer</MOWiki_Bs_Always>
   <MOWiki_Bs_Never>nie</MOWiki_Bs_Never>
   <MOWiki_Bs_Kinds>Wer damit auftaucht</MOWiki_Bs_Kinds>
+  <MOWiki_Kind_Fuel>Als Brennstoff verbrannt</MOWiki_Kind_Fuel>
+  <MOWiki_Fuel_Any>Kann als Brennstoff verbrannt werden</MOWiki_Fuel_Any>
 </LanguageData>

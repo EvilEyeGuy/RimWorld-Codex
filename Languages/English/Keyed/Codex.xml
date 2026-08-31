@@ -503,4 +503,6 @@
   <MOWiki_Bs_Always>always</MOWiki_Bs_Always>
   <MOWiki_Bs_Never>never</MOWiki_Bs_Never>
   <MOWiki_Bs_Kinds>Who turns up with it</MOWiki_Bs_Kinds>
+  <MOWiki_Kind_Fuel>Burned as fuel</MOWiki_Kind_Fuel>
+  <MOWiki_Fuel_Any>Can be burned as fuel</MOWiki_Fuel_Any>
 </LanguageData>
