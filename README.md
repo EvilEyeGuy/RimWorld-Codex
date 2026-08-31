@@ -70,10 +70,10 @@ container a mimic is hiding in, and what the Explorer's Workbench can discover.
 
 ![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png?v=3)
 
-On every page the two sections that answer where it comes from and what it is
-for are already open. Everything else is folded away, and each folded heading
-carries the number of entries behind it. The button in the top right corner
-strips the page further, down to those two answers and what it does, with a
+Every page opens with all of its sections unfolded. Fold away the ones you
+never read and the heading keeps the number of entries behind it, so nothing
+disappears without saying so. The button in the top right corner strips the
+page down to where it comes from, what it is for and what it does, with a
 single search field and no filters. The game remembers your choice.
 
 Anything built from a material carries a picker. Choose granite instead of wood
