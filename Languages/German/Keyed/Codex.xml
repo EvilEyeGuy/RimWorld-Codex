@@ -158,6 +158,7 @@
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_Kind_ProcessedInto>Wird verarbeitet zu</MOWiki_Kind_ProcessedInto>
+  <MOWiki_Kind_ProcessedFrom>Verarbeitet aus</MOWiki_Kind_ProcessedFrom>
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
@@ -329,8 +330,8 @@
   <MOWiki_Site_ViaFinder>Wird an der {0} aufgespürt</MOWiki_Site_ViaFinder>
   <MOWiki_Site_Reveals>Orte, die sie aufdecken kann</MOWiki_Site_Reveals>
   <MOWiki_MO_ScanDays>{0} Tage Suche</MOWiki_MO_ScanDays>
-  <MOWiki_MO_UnlockedBy>Suchbar, sobald eine {0} verbunden ist</MOWiki_MO_UnlockedBy>
-  <MOWiki_MO_UnlockedByMany>Suchbar ab {0} verbundenen: {1}</MOWiki_MO_UnlockedByMany>
+  <MOWiki_MO_UnlockedBy>Braucht eine verbundene {0}</MOWiki_MO_UnlockedBy>
+  <MOWiki_MO_UnlockedByMany>Braucht {0} verbundene Gebaeude, eines davon {1}</MOWiki_MO_UnlockedByMany>
   <MOWiki_CE_Values>Combat-Extended-Werte</MOWiki_CE_Values>
   <MOWiki_BuildingStart>Codex liest deine Mods ein ...</MOWiki_BuildingStart>
   <MOWiki_Building>Codex: Schritt {0} von {1}, {2}</MOWiki_Building>
@@ -372,7 +373,9 @@
   <MOWiki_Fn_FuelFullTank>Volle Fuellung reicht</MOWiki_Fn_FuelFullTank>
   <MOWiki_Fn_BurnsFor>Eine Einheit Brennstoff reicht</MOWiki_Fn_BurnsFor>
   <MOWiki_Fn_Days>{0} Tage</MOWiki_Fn_Days>
+  <MOWiki_Fn_Day>{0} Tag</MOWiki_Fn_Day>
   <MOWiki_Fn_Hours>{0} Stunden</MOWiki_Fn_Hours>
+  <MOWiki_Fn_Hour>{0} Stunde</MOWiki_Fn_Hour>
   <MOWiki_Browse_Quests>Quests</MOWiki_Browse_Quests>
   <MOWiki_Page_Quest>Quest</MOWiki_Page_Quest>
   <MOWiki_Quest_HowItComes>Wie sie auftaucht</MOWiki_Quest_HowItComes>
@@ -505,4 +508,21 @@
   <MOWiki_Bs_Kinds>Wer damit auftaucht</MOWiki_Bs_Kinds>
   <MOWiki_Kind_Fuel>Als Brennstoff verbrannt</MOWiki_Kind_Fuel>
   <MOWiki_Fuel_Any>Kann als Brennstoff verbrannt werden</MOWiki_Fuel_Any>
+
+  <MOWiki_Food>Nahrung</MOWiki_Food>
+  <MOWiki_Ingest>Beim Einnehmen</MOWiki_Ingest>
+  <MOWiki_Food_Nutrition>Naehrwert</MOWiki_Food_Nutrition>
+  <MOWiki_Food_Quality>Gilt als</MOWiki_Food_Quality>
+  <MOWiki_Food_Poison>Lebensmittelvergiftung</MOWiki_Food_Poison>
+  <MOWiki_Food_Joy>Erholung</MOWiki_Food_Joy>
+  <MOWiki_Food_Mood>Stimmung</MOWiki_Food_Mood>
+  <MOWiki_Food_NeverForNutrition>Keine Nahrung</MOWiki_Food_NeverForNutrition>
+  <MOWiki_Food_DesperateOnly>Bei Hunger</MOWiki_Food_DesperateOnly>
+  <MOWiki_Food_DesperateOnlyForHumanlikes>Nur Hungernde</MOWiki_Food_DesperateOnlyForHumanlikes>
+  <MOWiki_Food_RawBad>Roh, mager</MOWiki_Food_RawBad>
+  <MOWiki_Food_RawTasty>Roh, lecker</MOWiki_Food_RawTasty>
+  <MOWiki_Food_MealAwful>Scheussliche Mahlzeit</MOWiki_Food_MealAwful>
+  <MOWiki_Food_MealSimple>Einfache Mahlzeit</MOWiki_Food_MealSimple>
+  <MOWiki_Food_MealFine>Feine Mahlzeit</MOWiki_Food_MealFine>
+  <MOWiki_Food_MealLavish>Ueppige Mahlzeit</MOWiki_Food_MealLavish>
 </LanguageData>

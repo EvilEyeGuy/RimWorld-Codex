@@ -158,6 +158,7 @@
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_Kind_ProcessedInto>Processed into</MOWiki_Kind_ProcessedInto>
+  <MOWiki_Kind_ProcessedFrom>Processed from</MOWiki_Kind_ProcessedFrom>
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
@@ -329,8 +330,8 @@
   <MOWiki_Site_ViaFinder>Tracked down at the {0}</MOWiki_Site_ViaFinder>
   <MOWiki_Site_Reveals>Places it can uncover</MOWiki_Site_Reveals>
   <MOWiki_MO_ScanDays>{0} days of scanning</MOWiki_MO_ScanDays>
-  <MOWiki_MO_UnlockedBy>Searchable once a {0} is linked</MOWiki_MO_UnlockedBy>
-  <MOWiki_MO_UnlockedByMany>Searchable once {0} are linked: {1}</MOWiki_MO_UnlockedByMany>
+  <MOWiki_MO_UnlockedBy>Needs a linked {0}</MOWiki_MO_UnlockedBy>
+  <MOWiki_MO_UnlockedByMany>Needs {0} linked buildings, one of them a {1}</MOWiki_MO_UnlockedByMany>
   <MOWiki_CE_Values>Combat Extended values</MOWiki_CE_Values>
   <MOWiki_BuildingStart>Codex is reading your mods...</MOWiki_BuildingStart>
   <MOWiki_Building>Codex: step {0} of {1}, {2}</MOWiki_Building>
@@ -372,7 +373,9 @@
   <MOWiki_Fn_FuelFullTank>A full tank lasts</MOWiki_Fn_FuelFullTank>
   <MOWiki_Fn_BurnsFor>One unit of fuel burns for</MOWiki_Fn_BurnsFor>
   <MOWiki_Fn_Days>{0} days</MOWiki_Fn_Days>
+  <MOWiki_Fn_Day>{0} day</MOWiki_Fn_Day>
   <MOWiki_Fn_Hours>{0} hours</MOWiki_Fn_Hours>
+  <MOWiki_Fn_Hour>{0} hour</MOWiki_Fn_Hour>
   <MOWiki_Browse_Quests>Quests</MOWiki_Browse_Quests>
   <MOWiki_Page_Quest>Quest</MOWiki_Page_Quest>
   <MOWiki_Quest_HowItComes>How it turns up</MOWiki_Quest_HowItComes>
@@ -505,4 +508,21 @@
   <MOWiki_Bs_Kinds>Who turns up with it</MOWiki_Bs_Kinds>
   <MOWiki_Kind_Fuel>Burned as fuel</MOWiki_Kind_Fuel>
   <MOWiki_Fuel_Any>Can be burned as fuel</MOWiki_Fuel_Any>
+
+  <MOWiki_Food>Food</MOWiki_Food>
+  <MOWiki_Ingest>When taken</MOWiki_Ingest>
+  <MOWiki_Food_Nutrition>Nutrition</MOWiki_Food_Nutrition>
+  <MOWiki_Food_Quality>Counts as</MOWiki_Food_Quality>
+  <MOWiki_Food_Poison>Food poisoning</MOWiki_Food_Poison>
+  <MOWiki_Food_Joy>Recreation</MOWiki_Food_Joy>
+  <MOWiki_Food_Mood>Mood</MOWiki_Food_Mood>
+  <MOWiki_Food_NeverForNutrition>Not food</MOWiki_Food_NeverForNutrition>
+  <MOWiki_Food_DesperateOnly>When starving</MOWiki_Food_DesperateOnly>
+  <MOWiki_Food_DesperateOnlyForHumanlikes>Starving people</MOWiki_Food_DesperateOnlyForHumanlikes>
+  <MOWiki_Food_RawBad>Raw, poor</MOWiki_Food_RawBad>
+  <MOWiki_Food_RawTasty>Raw, tasty</MOWiki_Food_RawTasty>
+  <MOWiki_Food_MealAwful>Awful meal</MOWiki_Food_MealAwful>
+  <MOWiki_Food_MealSimple>Simple meal</MOWiki_Food_MealSimple>
+  <MOWiki_Food_MealFine>Fine meal</MOWiki_Food_MealFine>
+  <MOWiki_Food_MealLavish>Lavish meal</MOWiki_Food_MealLavish>
 </LanguageData>
