@@ -373,4 +373,134 @@
   <MOWiki_Fn_BurnsFor>One unit of fuel burns for</MOWiki_Fn_BurnsFor>
   <MOWiki_Fn_Days>{0} days</MOWiki_Fn_Days>
   <MOWiki_Fn_Hours>{0} hours</MOWiki_Fn_Hours>
+  <MOWiki_Browse_Quests>Quests</MOWiki_Browse_Quests>
+  <MOWiki_Page_Quest>Quest</MOWiki_Page_Quest>
+  <MOWiki_Quest_HowItComes>How it turns up</MOWiki_Quest_HowItComes>
+  <MOWiki_Quest_Special>Started by the game or by another quest, never offered on its own.</MOWiki_Quest_Special>
+  <MOWiki_Quest_Random>Offered on its own once the conditions are met.</MOWiki_Quest_Random>
+  <MOWiki_Quest_GivenBy>Reaches you through {0}</MOWiki_Quest_GivenBy>
+  <MOWiki_Quest_AutoAccept>Accepted for you, there is nothing to decline.</MOWiki_Quest_AutoAccept>
+  <MOWiki_Quest_Hidden>Runs in the background and stays out of the quest list.</MOWiki_Quest_Hidden>
+  <MOWiki_Quest_Favor>Can pay in royal favour instead of goods.</MOWiki_Quest_Favor>
+  <MOWiki_Quest_Population>Brings new people to the colony.</MOWiki_Quest_Population>
+  <MOWiki_Quest_Places>Where it takes you</MOWiki_Quest_Places>
+  <MOWiki_Quest_Rewards>What it can hand back</MOWiki_Quest_Rewards>
+  <MOWiki_Quest_Involved>Who and what is involved</MOWiki_Quest_Involved>
+  <MOWiki_Quest_Sets>What it sets off</MOWiki_Quest_Sets>
+  <MOWiki_Quest_Chain>How it connects</MOWiki_Quest_Chain>
+  <MOWiki_Quest_PartOf>part of</MOWiki_Quest_PartOf>
+  <MOWiki_Quest_Starts>starts</MOWiki_Quest_Starts>
+  <MOWiki_Quest_MinPoints>From threat points</MOWiki_Quest_MinPoints>
+  <MOWiki_Quest_Rating>Challenge rating</MOWiki_Quest_Rating>
+  <MOWiki_Quest_Expires>Expires after</MOWiki_Quest_Expires>
+  <MOWiki_Quest_Earliest>Not before day</MOWiki_Quest_Earliest>
+  <MOWiki_Quest_Refire>Repeats at earliest after</MOWiki_Quest_Refire>
+  <MOWiki_Quest_Days>{0} days</MOWiki_Quest_Days>
+  <MOWiki_Quest_NoData>This quest builds itself when the game offers it. Its defs say nothing that can be read ahead of time.</MOWiki_Quest_NoData>
+  <MOWiki_Quest_Weight>Selection weight</MOWiki_Quest_Weight>
+  <MOWiki_Browse_Memes>Memes</MOWiki_Browse_Memes>
+  <MOWiki_Browse_Precepts>Precepts</MOWiki_Browse_Precepts>
+  <MOWiki_Page_Meme>Meme</MOWiki_Page_Meme>
+  <MOWiki_Page_Precept>Precept</MOWiki_Page_Precept>
+  <MOWiki_Page_Ritual>Ritual</MOWiki_Page_Ritual>
+  <MOWiki_Ideo_Impact>Impact</MOWiki_Ideo_Impact>
+  <MOWiki_Ideo_OutOf>{0} of {1}</MOWiki_Ideo_OutOf>
+  <MOWiki_Ideo_Category>Kind</MOWiki_Ideo_Category>
+  <MOWiki_Ideo_Deities>Gods</MOWiki_Ideo_Deities>
+  <MOWiki_Ideo_OwnRituals>Rituals of its own</MOWiki_Ideo_OwnRituals>
+  <MOWiki_Ideo_Issue>Question it answers</MOWiki_Ideo_Issue>
+  <MOWiki_Ideo_Counts>Counts against the limit</MOWiki_Ideo_Counts>
+  <MOWiki_Ideo_Brings>What it brings with it</MOWiki_Ideo_Brings>
+  <MOWiki_Ideo_Precepts>Precepts around it</MOWiki_Ideo_Precepts>
+  <MOWiki_Ideo_Memes>Memes around it</MOWiki_Ideo_Memes>
+  <MOWiki_Ideo_Excludes>Cannot be held with</MOWiki_Ideo_Excludes>
+  <MOWiki_Ideo_Instead>Instead of this</MOWiki_Ideo_Instead>
+  <MOWiki_Ideo_Effects>What it does</MOWiki_Ideo_Effects>
+  <MOWiki_Ideo_TheRitual>The ritual</MOWiki_Ideo_TheRitual>
+  <MOWiki_Ideo_Ritual>ritual</MOWiki_Ideo_Ritual>
+  <MOWiki_Ideo_Needed>needs this meme</MOWiki_Ideo_Needed>
+  <MOWiki_Ideo_Fits>goes with it</MOWiki_Ideo_Fits>
+  <MOWiki_Ideo_Fights>clashes with it</MOWiki_Ideo_Fights>
+  <MOWiki_Ideo_Needs>required</MOWiki_Ideo_Needs>
+  <MOWiki_Ideo_Likes>Sits well with the {0} trait</MOWiki_Ideo_Likes>
+  <MOWiki_Ideo_Dislikes>Sits badly with the {0} trait</MOWiki_Ideo_Dislikes>
+  <MOWiki_Ideo_WorshipRoom>Wants a room of its own: {0}</MOWiki_Ideo_WorshipRoom>
+  <MOWiki_Ideo_Ability>Grants the ability {0}</MOWiki_Ideo_Ability>
+  <MOWiki_Ideo_NoWork>The role cannot do {0} work</MOWiki_Ideo_NoWork>
+  <MOWiki_Ideo_Anytime>Can be held whenever you call it.</MOWiki_Ideo_Anytime>
+  <MOWiki_Ideo_MembersOnly>Only believers take part.</MOWiki_Ideo_MembersOnly>
+  <MOWiki_Ideo_Does>does it</MOWiki_Ideo_Does>
+  <MOWiki_Ideo_Hears>hears of it</MOWiki_Ideo_Hears>
+  <MOWiki_Ideo_While>while it lasts</MOWiki_Ideo_While>
+  <MOWiki_Ideo_Refuses>refuses</MOWiki_Ideo_Refuses>
+  <MOWiki_Ideo_Daily>every day</MOWiki_Ideo_Daily>
+  <MOWiki_Browse_Abilities>Abilities</MOWiki_Browse_Abilities>
+  <MOWiki_Browse_Hediffs>Conditions</MOWiki_Browse_Hediffs>
+  <MOWiki_Page_Ability>Ability</MOWiki_Page_Ability>
+  <MOWiki_Page_Hediff>Condition</MOWiki_Page_Hediff>
+  <MOWiki_Ab_Warmup>Cast time</MOWiki_Ab_Warmup>
+  <MOWiki_Ab_Range>Range</MOWiki_Ab_Range>
+  <MOWiki_Ab_Cooldown>Cooldown</MOWiki_Ab_Cooldown>
+  <MOWiki_Ab_Level>Psycast level</MOWiki_Ab_Level>
+  <MOWiki_Ab_Hostile>Hostile</MOWiki_Ab_Hostile>
+  <MOWiki_Ab_Seconds>{0} s</MOWiki_Ab_Seconds>
+  <MOWiki_Ab_Hours>{0} hours</MOWiki_Ab_Hours>
+  <MOWiki_Ab_Days>{0} days</MOWiki_Ab_Days>
+  <MOWiki_Ab_Effects>What it does</MOWiki_Ab_Effects>
+  <MOWiki_Ab_Applies>Applies {0}</MOWiki_Ab_Applies>
+  <MOWiki_Ab_Mental>Drives the target into {0}</MOWiki_Ab_Mental>
+  <MOWiki_Ab_Hemogen>Costs {0} % hemogen</MOWiki_Ab_Hemogen>
+  <MOWiki_Ab_Severity>severity {0}</MOWiki_Ab_Severity>
+  <MOWiki_Ab_From>Where it comes from</MOWiki_Ab_From>
+  <MOWiki_Hd_Harmful>Harmful</MOWiki_Hd_Harmful>
+  <MOWiki_Hd_Tendable>Can be tended</MOWiki_Hd_Tendable>
+  <MOWiki_Hd_Lethal>Lethal at severity</MOWiki_Hd_Lethal>
+  <MOWiki_Hd_Initial>Starts at severity</MOWiki_Hd_Initial>
+  <MOWiki_Hd_Leaves>Leaves behind</MOWiki_Hd_Leaves>
+  <MOWiki_Hd_Course>How it runs its course</MOWiki_Hd_Course>
+  <MOWiki_Hd_Stage>Stage {0}</MOWiki_Hd_Stage>
+  <MOWiki_Hd_FromSeverity>from severity {0}</MOWiki_Hd_FromSeverity>
+  <MOWiki_Hd_Pain>Pain</MOWiki_Hd_Pain>
+  <MOWiki_Hd_PartEfficiency>Part efficiency</MOWiki_Hd_PartEfficiency>
+  <MOWiki_Hd_Behaviour>How it behaves</MOWiki_Hd_Behaviour>
+  <MOWiki_Hd_Fades>Goes away after {0}.</MOWiki_Hd_Fades>
+  <MOWiki_Hd_Worsens>Gets worse by {0} severity a day if nothing is done.</MOWiki_Hd_Worsens>
+  <MOWiki_Hd_Heals>Heals by {0} severity a day on its own.</MOWiki_Hd_Heals>
+  <MOWiki_Hd_Tend>One tend lasts {0} hours.</MOWiki_Hd_Tend>
+  <MOWiki_Hd_Immunity>The body builds immunity against it, so the race is severity against immunity.</MOWiki_Hd_Immunity>
+  <MOWiki_Hd_Permanent>Can leave a permanent injury behind.</MOWiki_Hd_Permanent>
+  <MOWiki_Hd_Infects>Can turn into an infection.</MOWiki_Hd_Infects>
+  <MOWiki_Hd_From>Where it comes from</MOWiki_Hd_From>
+  <MOWiki_Hd_Cure>What gets rid of it</MOWiki_Hd_Cure>
+  <MOWiki_Hd_Grants>What it grants</MOWiki_Hd_Grants>
+  <MOWiki_Browse_Traits>Traits</MOWiki_Browse_Traits>
+  <MOWiki_Browse_Backstories>Backstories</MOWiki_Browse_Backstories>
+  <MOWiki_Page_Trait>Trait</MOWiki_Page_Trait>
+  <MOWiki_Page_Backstory>Backstory</MOWiki_Page_Backstory>
+  <MOWiki_Tr_Commonality>How often it turns up</MOWiki_Tr_Commonality>
+  <MOWiki_Tr_CommonalityFemale>Among women</MOWiki_Tr_CommonalityFemale>
+  <MOWiki_Tr_Effects>What it does</MOWiki_Tr_Effects>
+  <MOWiki_Tr_Work>Work</MOWiki_Tr_Work>
+  <MOWiki_Tr_NoWork>Cannot do {0} work</MOWiki_Tr_NoWork>
+  <MOWiki_Tr_NeedsWork>Only on pawns who can do {0} work</MOWiki_Tr_NeedsWork>
+  <MOWiki_Tr_Passion>Always passionate about {0}</MOWiki_Tr_Passion>
+  <MOWiki_Tr_NoPassion>Never passionate about {0}</MOWiki_Tr_NoPassion>
+  <MOWiki_Tr_Conflicts>Never together with</MOWiki_Tr_Conflicts>
+  <MOWiki_Tr_From>Where it comes from</MOWiki_Tr_From>
+  <MOWiki_Tr_Brings>brings it</MOWiki_Tr_Brings>
+  <MOWiki_Tr_Blocks>rules it out</MOWiki_Tr_Blocks>
+  <MOWiki_Bs_Person>This person</MOWiki_Bs_Person>
+  <MOWiki_Bs_They>they</MOWiki_Bs_They>
+  <MOWiki_Bs_Their>their</MOWiki_Bs_Their>
+  <MOWiki_Bs_Them>them</MOWiki_Bs_Them>
+  <MOWiki_Bs_Slot>Stage of life</MOWiki_Bs_Slot>
+  <MOWiki_Bs_Short>Short title</MOWiki_Bs_Short>
+  <MOWiki_Bs_Skills>What it teaches</MOWiki_Bs_Skills>
+  <MOWiki_Bs_Work>Work</MOWiki_Bs_Work>
+  <MOWiki_Bs_NoWork>Rules out {0} work for life</MOWiki_Bs_NoWork>
+  <MOWiki_Bs_NeedsWork>Only on pawns who can do {0} work</MOWiki_Bs_NeedsWork>
+  <MOWiki_Bs_Traits>Traits it settles</MOWiki_Bs_Traits>
+  <MOWiki_Bs_Always>always</MOWiki_Bs_Always>
+  <MOWiki_Bs_Never>never</MOWiki_Bs_Never>
+  <MOWiki_Bs_Kinds>Who turns up with it</MOWiki_Bs_Kinds>
 </LanguageData>

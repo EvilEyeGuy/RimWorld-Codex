@@ -373,4 +373,134 @@
   <MOWiki_Fn_BurnsFor>Eine Einheit Brennstoff reicht</MOWiki_Fn_BurnsFor>
   <MOWiki_Fn_Days>{0} Tage</MOWiki_Fn_Days>
   <MOWiki_Fn_Hours>{0} Stunden</MOWiki_Fn_Hours>
+  <MOWiki_Browse_Quests>Quests</MOWiki_Browse_Quests>
+  <MOWiki_Page_Quest>Quest</MOWiki_Page_Quest>
+  <MOWiki_Quest_HowItComes>Wie sie auftaucht</MOWiki_Quest_HowItComes>
+  <MOWiki_Quest_Special>Wird vom Spiel oder von einer anderen Quest gestartet, nie von allein angeboten.</MOWiki_Quest_Special>
+  <MOWiki_Quest_Random>Wird von allein angeboten, sobald die Bedingungen stimmen.</MOWiki_Quest_Random>
+  <MOWiki_Quest_GivenBy>Kommt zu dir ueber {0}</MOWiki_Quest_GivenBy>
+  <MOWiki_Quest_AutoAccept>Wird fuer dich angenommen, ablehnen geht nicht.</MOWiki_Quest_AutoAccept>
+  <MOWiki_Quest_Hidden>Laeuft im Hintergrund und steht nicht in der Questliste.</MOWiki_Quest_Hidden>
+  <MOWiki_Quest_Favor>Kann statt mit Waren mit koeniglicher Gunst zahlen.</MOWiki_Quest_Favor>
+  <MOWiki_Quest_Population>Bringt neue Leute in die Kolonie.</MOWiki_Quest_Population>
+  <MOWiki_Quest_Places>Wohin sie fuehrt</MOWiki_Quest_Places>
+  <MOWiki_Quest_Rewards>Was sie einbringen kann</MOWiki_Quest_Rewards>
+  <MOWiki_Quest_Involved>Wer und was beteiligt ist</MOWiki_Quest_Involved>
+  <MOWiki_Quest_Sets>Was sie ausloest</MOWiki_Quest_Sets>
+  <MOWiki_Quest_Chain>Wie sie zusammenhaengt</MOWiki_Quest_Chain>
+  <MOWiki_Quest_PartOf>gehoert zu</MOWiki_Quest_PartOf>
+  <MOWiki_Quest_Starts>startet</MOWiki_Quest_Starts>
+  <MOWiki_Quest_MinPoints>Ab Bedrohungspunkten</MOWiki_Quest_MinPoints>
+  <MOWiki_Quest_Rating>Schwierigkeitsgrad</MOWiki_Quest_Rating>
+  <MOWiki_Quest_Expires>Laeuft ab nach</MOWiki_Quest_Expires>
+  <MOWiki_Quest_Earliest>Nicht vor Tag</MOWiki_Quest_Earliest>
+  <MOWiki_Quest_Refire>Wiederholt sich fruehestens nach</MOWiki_Quest_Refire>
+  <MOWiki_Quest_Days>{0} Tagen</MOWiki_Quest_Days>
+  <MOWiki_Quest_NoData>Diese Quest baut sich erst zusammen, wenn das Spiel sie anbietet. Ihre Defs geben vorher nichts her.</MOWiki_Quest_NoData>
+  <MOWiki_Quest_Weight>Auswahlgewicht</MOWiki_Quest_Weight>
+  <MOWiki_Browse_Memes>Meme</MOWiki_Browse_Memes>
+  <MOWiki_Browse_Precepts>Praezepte</MOWiki_Browse_Precepts>
+  <MOWiki_Page_Meme>Mem</MOWiki_Page_Meme>
+  <MOWiki_Page_Precept>Praezept</MOWiki_Page_Precept>
+  <MOWiki_Page_Ritual>Ritual</MOWiki_Page_Ritual>
+  <MOWiki_Ideo_Impact>Gewicht</MOWiki_Ideo_Impact>
+  <MOWiki_Ideo_OutOf>{0} von {1}</MOWiki_Ideo_OutOf>
+  <MOWiki_Ideo_Category>Art</MOWiki_Ideo_Category>
+  <MOWiki_Ideo_Deities>Goetter</MOWiki_Ideo_Deities>
+  <MOWiki_Ideo_OwnRituals>Eigene Rituale</MOWiki_Ideo_OwnRituals>
+  <MOWiki_Ideo_Issue>Beantwortet die Frage</MOWiki_Ideo_Issue>
+  <MOWiki_Ideo_Counts>Zaehlt gegen die Obergrenze</MOWiki_Ideo_Counts>
+  <MOWiki_Ideo_Brings>Was es mitbringt</MOWiki_Ideo_Brings>
+  <MOWiki_Ideo_Precepts>Praezepte dazu</MOWiki_Ideo_Precepts>
+  <MOWiki_Ideo_Memes>Meme dazu</MOWiki_Ideo_Memes>
+  <MOWiki_Ideo_Excludes>Nicht zusammen mit</MOWiki_Ideo_Excludes>
+  <MOWiki_Ideo_Instead>Stattdessen moeglich</MOWiki_Ideo_Instead>
+  <MOWiki_Ideo_Effects>Was es bewirkt</MOWiki_Ideo_Effects>
+  <MOWiki_Ideo_TheRitual>Das Ritual</MOWiki_Ideo_TheRitual>
+  <MOWiki_Ideo_Ritual>Ritual</MOWiki_Ideo_Ritual>
+  <MOWiki_Ideo_Needed>braucht dieses Mem</MOWiki_Ideo_Needed>
+  <MOWiki_Ideo_Fits>passt dazu</MOWiki_Ideo_Fits>
+  <MOWiki_Ideo_Fights>steht dagegen</MOWiki_Ideo_Fights>
+  <MOWiki_Ideo_Needs>noetig</MOWiki_Ideo_Needs>
+  <MOWiki_Ideo_Likes>Passt zur Eigenschaft {0}</MOWiki_Ideo_Likes>
+  <MOWiki_Ideo_Dislikes>Passt nicht zur Eigenschaft {0}</MOWiki_Ideo_Dislikes>
+  <MOWiki_Ideo_WorshipRoom>Will einen eigenen Raum: {0}</MOWiki_Ideo_WorshipRoom>
+  <MOWiki_Ideo_Ability>Verleiht die Faehigkeit {0}</MOWiki_Ideo_Ability>
+  <MOWiki_Ideo_NoWork>Die Rolle kann keine {0}-Arbeit verrichten</MOWiki_Ideo_NoWork>
+  <MOWiki_Ideo_Anytime>Kann jederzeit abgehalten werden.</MOWiki_Ideo_Anytime>
+  <MOWiki_Ideo_MembersOnly>Nur Glaeubige nehmen teil.</MOWiki_Ideo_MembersOnly>
+  <MOWiki_Ideo_Does>tut es selbst</MOWiki_Ideo_Does>
+  <MOWiki_Ideo_Hears>erfaehrt davon</MOWiki_Ideo_Hears>
+  <MOWiki_Ideo_While>solange es anhaelt</MOWiki_Ideo_While>
+  <MOWiki_Ideo_Refuses>verweigert</MOWiki_Ideo_Refuses>
+  <MOWiki_Ideo_Daily>jeden Tag</MOWiki_Ideo_Daily>
+  <MOWiki_Browse_Abilities>Faehigkeiten</MOWiki_Browse_Abilities>
+  <MOWiki_Browse_Hediffs>Zustaende</MOWiki_Browse_Hediffs>
+  <MOWiki_Page_Ability>Faehigkeit</MOWiki_Page_Ability>
+  <MOWiki_Page_Hediff>Zustand</MOWiki_Page_Hediff>
+  <MOWiki_Ab_Warmup>Wirkzeit</MOWiki_Ab_Warmup>
+  <MOWiki_Ab_Range>Reichweite</MOWiki_Ab_Range>
+  <MOWiki_Ab_Cooldown>Abklingzeit</MOWiki_Ab_Cooldown>
+  <MOWiki_Ab_Level>Psi-Stufe</MOWiki_Ab_Level>
+  <MOWiki_Ab_Hostile>Feindselig</MOWiki_Ab_Hostile>
+  <MOWiki_Ab_Seconds>{0} s</MOWiki_Ab_Seconds>
+  <MOWiki_Ab_Hours>{0} Stunden</MOWiki_Ab_Hours>
+  <MOWiki_Ab_Days>{0} Tage</MOWiki_Ab_Days>
+  <MOWiki_Ab_Effects>Was sie bewirkt</MOWiki_Ab_Effects>
+  <MOWiki_Ab_Applies>Verursacht {0}</MOWiki_Ab_Applies>
+  <MOWiki_Ab_Mental>Treibt das Ziel in {0}</MOWiki_Ab_Mental>
+  <MOWiki_Ab_Hemogen>Kostet {0} % Haemogen</MOWiki_Ab_Hemogen>
+  <MOWiki_Ab_Severity>Schwere {0}</MOWiki_Ab_Severity>
+  <MOWiki_Ab_From>Woher sie kommt</MOWiki_Ab_From>
+  <MOWiki_Hd_Harmful>Schaedlich</MOWiki_Hd_Harmful>
+  <MOWiki_Hd_Tendable>Behandelbar</MOWiki_Hd_Tendable>
+  <MOWiki_Hd_Lethal>Toedlich ab Schwere</MOWiki_Hd_Lethal>
+  <MOWiki_Hd_Initial>Beginnt bei Schwere</MOWiki_Hd_Initial>
+  <MOWiki_Hd_Leaves>Hinterlaesst</MOWiki_Hd_Leaves>
+  <MOWiki_Hd_Course>Wie er verlaeuft</MOWiki_Hd_Course>
+  <MOWiki_Hd_Stage>Stufe {0}</MOWiki_Hd_Stage>
+  <MOWiki_Hd_FromSeverity>ab Schwere {0}</MOWiki_Hd_FromSeverity>
+  <MOWiki_Hd_Pain>Schmerz</MOWiki_Hd_Pain>
+  <MOWiki_Hd_PartEfficiency>Teilleistung</MOWiki_Hd_PartEfficiency>
+  <MOWiki_Hd_Behaviour>Wie er sich verhaelt</MOWiki_Hd_Behaviour>
+  <MOWiki_Hd_Fades>Verschwindet nach {0}.</MOWiki_Hd_Fades>
+  <MOWiki_Hd_Worsens>Verschlechtert sich taeglich um {0} Schwere, wenn nichts geschieht.</MOWiki_Hd_Worsens>
+  <MOWiki_Hd_Heals>Heilt taeglich um {0} Schwere von allein.</MOWiki_Hd_Heals>
+  <MOWiki_Hd_Tend>Eine Behandlung haelt {0} Stunden.</MOWiki_Hd_Tend>
+  <MOWiki_Hd_Immunity>Der Koerper baut Immunitaet auf, es ist also ein Wettlauf zwischen Schwere und Immunitaet.</MOWiki_Hd_Immunity>
+  <MOWiki_Hd_Permanent>Kann eine dauerhafte Verletzung hinterlassen.</MOWiki_Hd_Permanent>
+  <MOWiki_Hd_Infects>Kann sich zu einer Infektion entwickeln.</MOWiki_Hd_Infects>
+  <MOWiki_Hd_From>Woher er kommt</MOWiki_Hd_From>
+  <MOWiki_Hd_Cure>Was ihn beseitigt</MOWiki_Hd_Cure>
+  <MOWiki_Hd_Grants>Was er verleiht</MOWiki_Hd_Grants>
+  <MOWiki_Browse_Traits>Eigenschaften</MOWiki_Browse_Traits>
+  <MOWiki_Browse_Backstories>Hintergruende</MOWiki_Browse_Backstories>
+  <MOWiki_Page_Trait>Eigenschaft</MOWiki_Page_Trait>
+  <MOWiki_Page_Backstory>Hintergrund</MOWiki_Page_Backstory>
+  <MOWiki_Tr_Commonality>Wie oft sie vorkommt</MOWiki_Tr_Commonality>
+  <MOWiki_Tr_CommonalityFemale>Bei Frauen</MOWiki_Tr_CommonalityFemale>
+  <MOWiki_Tr_Effects>Was sie bewirkt</MOWiki_Tr_Effects>
+  <MOWiki_Tr_Work>Arbeit</MOWiki_Tr_Work>
+  <MOWiki_Tr_NoWork>Kann keine {0}-Arbeit verrichten</MOWiki_Tr_NoWork>
+  <MOWiki_Tr_NeedsWork>Nur bei Pawns, die {0}-Arbeit verrichten koennen</MOWiki_Tr_NeedsWork>
+  <MOWiki_Tr_Passion>Immer mit Leidenschaft fuer {0}</MOWiki_Tr_Passion>
+  <MOWiki_Tr_NoPassion>Nie mit Leidenschaft fuer {0}</MOWiki_Tr_NoPassion>
+  <MOWiki_Tr_Conflicts>Nie zusammen mit</MOWiki_Tr_Conflicts>
+  <MOWiki_Tr_From>Woher sie kommt</MOWiki_Tr_From>
+  <MOWiki_Tr_Brings>bringt sie mit</MOWiki_Tr_Brings>
+  <MOWiki_Tr_Blocks>schliesst sie aus</MOWiki_Tr_Blocks>
+  <MOWiki_Bs_Person>Diese Person</MOWiki_Bs_Person>
+  <MOWiki_Bs_They>sie</MOWiki_Bs_They>
+  <MOWiki_Bs_Their>ihr</MOWiki_Bs_Their>
+  <MOWiki_Bs_Them>sie</MOWiki_Bs_Them>
+  <MOWiki_Bs_Slot>Lebensabschnitt</MOWiki_Bs_Slot>
+  <MOWiki_Bs_Short>Kurzform</MOWiki_Bs_Short>
+  <MOWiki_Bs_Skills>Was er beibringt</MOWiki_Bs_Skills>
+  <MOWiki_Bs_Work>Arbeit</MOWiki_Bs_Work>
+  <MOWiki_Bs_NoWork>Schliesst {0}-Arbeit fuer immer aus</MOWiki_Bs_NoWork>
+  <MOWiki_Bs_NeedsWork>Nur bei Pawns, die {0}-Arbeit verrichten koennen</MOWiki_Bs_NeedsWork>
+  <MOWiki_Bs_Traits>Eigenschaften, die er festlegt</MOWiki_Bs_Traits>
+  <MOWiki_Bs_Always>immer</MOWiki_Bs_Always>
+  <MOWiki_Bs_Never>nie</MOWiki_Bs_Never>
+  <MOWiki_Bs_Kinds>Wer damit auftaucht</MOWiki_Bs_Kinds>
 </LanguageData>

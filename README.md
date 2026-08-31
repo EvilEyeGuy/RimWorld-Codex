@@ -3,7 +3,8 @@
 ![Codex](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/preview.png?v=2)
 
 A dynamic in-game encyclopedia that connects items, creatures, recipes, research,
-workbenches and more across your loaded mods. It has extra support for
+workbenches and more across your loaded mods. On a normal medieval modlist that
+comes to around 7300 pages. It has extra support for
 [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926)
 to cover its unique mechanics, and stays fully usable with any other mod setup.
 
@@ -30,6 +31,22 @@ to the ruin that schematic drops in and the odds of finding it there.
 - **Structures**: the ruins and hideouts of the world generator, drawn as a floor
   plan in the colours of the materials they are built from, with every possible
   layout as a tab, what you can loot there, and how you come across the place
+- **Quests**: the name the game would show you, the written text where it
+  resolves to plain words, threat points, challenge rating, expiry, where it
+  takes you and which quest it hangs off
+- **Genes, memes and precepts**: cost and carriers for a gene, and for a precept
+  what it does to mood and on which occasion, which memes need it, go with it or
+  fight it, and what you could pick instead. Rituals sit in the same list
+- **Abilities and health conditions**: cast time, range, cooldown and what an
+  ability applies. A condition walks its stages with pain, capacities and stats
+  for each one, says whether it worsens or heals on its own, and names what
+  causes it and what gets rid of it
+- **Traits and backstories**: one block per trait degree with its own text and
+  numbers, and for a backstory the skills it teaches, the work it rules out for
+  life, the traits it settles and which pawn kinds turn up with it
+
+Content from an expansion says so. The badge in the corner of a page names
+Royalty, Ideology, Biotech, Anomaly or Odyssey the same way it names a mod.
 
 While a game is running, each page also shows where that thing currently is on
 your maps, in stockpiles, carried by a pawn or out with a caravan. Clicking the
@@ -50,10 +67,11 @@ container a mimic is hiding in, and what the Explorer's Workbench can discover.
 
 ![Two ways to read it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png?v=2)
 
-Every page starts with the two questions it exists for open and the rest folded
-away, with a count on each folded heading. The button in the top right corner
-strips it further, down to where it comes from, what it is for and what it does,
-with a single search field and no filters. The game remembers your choice.
+On every page the two sections that answer where it comes from and what it is
+for are already open. Everything else is folded away, and each folded heading
+carries the number of entries behind it. The button in the top right corner
+strips the page further, down to those two answers and what it does, with a
+single search field and no filters. The game remembers your choice.
 
 Anything built from a material carries a picker. Choose granite instead of wood
 and the market value, the mass, the hit points, the beauty and the work all
@@ -61,7 +79,7 @@ follow. Opening the Codex from something on your map sets the material for you.
 
 ## What it reads
 
-![What it reads](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=2)
+![What it reads](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=3)
 
 ## Works with anything
 
@@ -76,7 +94,7 @@ ammunition type the weapon fires with its armour penetration.
 
 ## Performance
 
-![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=3)
+![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=4)
 
 Nothing is built at startup. The index is created the first time you open the
 window, and it runs as a loading event with a progress readout, so a very large
@@ -84,9 +102,9 @@ mod list does not look like a freeze. If you never open the window, it costs
 nothing.
 
 Drawing was measured with Dubs Performance Analyzer on a paused colony. With the
-window open on its heaviest page it costs about 1.05 ms per frame, roughly the
+window open on its heaviest page it costs about 1.04 ms per frame, roughly the
 same as the vanilla work tab at 1.02 ms and a fifth of the vanilla research tree
-at 4.90 ms. In the small panel view the same page costs about 0.24 ms, so
+at 4.90 ms. In the small panel view the same page costs about 0.25 ms, so
 leaving it open beside the game is close to free. The live occurrence lookup
 refreshes every few seconds and does not register.
 
