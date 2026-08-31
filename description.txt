@@ -12,7 +12,7 @@ While a game is running, a page also shows where that thing sits on your maps ri
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png[/img]
 
-The button in the top right corner switches between the two, and the game remembers which one you picked.
+The button in the top right corner switches between the two, and the game remembers which one you picked. The short view shrinks the window to a small panel you can leave open beside the game, and it follows your map selection: click a thing, and the panel becomes its page.
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png[/img]
 
@@ -27,6 +27,8 @@ No patches to install, no compatibility list to maintain. A mod that adds items,
 Ruins and hideouts are drawn as floor plans, in the colours of the materials they are built from, with every possible layout as its own tab. A floor plan gives away what waits inside, so it starts blurred and uncovers on a click. You can switch that off in the mod settings.
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png[/img]
+
+The index is built once per session, the first time you open the Codex. On a large modlist that takes a moment, so it runs as a proper loading screen with a progress readout instead of a frozen game. Every later opening is instant.
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png[/img]
 
