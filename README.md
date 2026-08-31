@@ -63,9 +63,9 @@ The Medieval Overhaul support reads what is otherwise invisible: monster drop
 chances, loot table percentages, which schematic a research project needs, which
 container a mimic is hiding in, and what the Explorer's Workbench can discover.
 
-## Two ways to read a page
+## Two views
 
-![Two ways to read it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png?v=2)
+![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png?v=3)
 
 On every page the two sections that answer where it comes from and what it is
 for are already open. Everything else is folded away, and each folded heading
