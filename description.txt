@@ -1,15 +1,39 @@
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/01_introduction.png[/img]
 
+Codex is built the moment you open it, out of the mods you actually have loaded. Nothing in it is written by hand, so it stays correct when a mod updates, and it covers modded content exactly the way it covers vanilla.
+
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_where_to_open.png[/img]
+Every page answers the same two questions: where does this come from, and what is it for. Both answers are lists of links, so you can walk a chain instead of guessing. From a locked research to the schematic it needs, to the ruin that schematic drops in, to the odds of finding it there.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_works_with.png[/img]
+Anything built from a material carries a picker. Choose granite instead of wood and the market value, the mass, the hit points, the beauty and the work all follow. Click the Codex button on something standing on your map and it opens already set to the material that thing is made of.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_what_it_reads.png[/img]
+While a game is running, a page also shows where that thing sits on your maps right now, in a stockpile, carried by a pawn, or out with a caravan. Clicking the entry moves the camera there. Clicking again walks through the other copies.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_performance.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_faq.png[/img]
+The button in the top right corner switches between the two, and the game remembers which one you picked.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_credits.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png[/img]
+
+The window remembers the page you were on, so the button in the corner picks up where you stopped.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_works_with.png[/img]
+
+No patches to install, no compatibility list to maintain. A mod that adds items, recipes, research or traders appears on its own, including mods released long after this one.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png[/img]
+
+Ruins and hideouts are drawn as floor plans, in the colours of the materials they are built from, with every possible layout as its own tab. A floor plan gives away what waits inside, so it starts blurred and uncovers on a click. You can switch that off in the mod settings.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png[/img]
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png[/img]
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/09_credits.png[/img]
+
+Requires Harmony. Nothing else.
+
+Source and issue tracker: [url=https://github.com/EvilEyeGuy/RimWorld-Codex]github.com/EvilEyeGuy/RimWorld-Codex[/url]
+
+If a mod of yours keeps something interesting in its own extension and the Codex stays quiet about it, name the mod and it can be taught to read it.
