@@ -46,6 +46,27 @@ The Medieval Overhaul support reads what is otherwise invisible: monster drop
 chances, loot table percentages, which schematic a research project needs, which
 container a mimic is hiding in, and what the Explorer's Workbench can discover.
 
+## Two ways to read a page
+
+![Two ways to read it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png)
+
+Every page starts with the two questions it exists for open and the rest folded
+away, with a count on each folded heading. The button in the top right corner
+strips it further, down to where it comes from, what it is for and what it does,
+with a single search field and no filters. The game remembers your choice.
+
+Anything built from a material carries a picker. Choose granite instead of wood
+and the market value, the mass, the hit points, the beauty and the work all
+follow. Opening the Codex from something on your map sets the material for you.
+
+## What it reads
+
+![What it reads](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png)
+
+## Works with anything
+
+![Works with](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_works_with.png)
+
 ## Combat Extended
 
 With Combat Extended loaded, the vanilla ranged numbers are wrong, so they are
@@ -55,7 +76,7 @@ ammunition type the weapon fires with its armour penetration.
 
 ## Performance
 
-![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_performance.png)
+![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png)
 
 Nothing is built at startup. The index is created the first time you open the
 window, and it runs as a loading event with a progress readout, so a very large
@@ -69,9 +90,17 @@ The live occurrence lookup refreshes every few seconds and does not register.
 
 ## Usage
 
-![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_where_to_open.png)
+![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png)
 
 Open it with the book button in the toggle row at the bottom right.
+
+## Questions
+
+![FAQ](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png)
+
+## Credits
+
+![Credits](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/09_credits.png)
 
 ## Requirements
 

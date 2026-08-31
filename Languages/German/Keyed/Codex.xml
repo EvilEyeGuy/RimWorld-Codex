@@ -340,4 +340,32 @@
   <MOWiki_CE_DamageShort>{0} Schaden</MOWiki_CE_DamageShort>
   <MOWiki_PickerSearch>Tippen zum Filtern ...</MOWiki_PickerSearch>
   <MOWiki_Kind_Reward>Enthalten in</MOWiki_Kind_Reward>
+  <MOWiki_Browse_Genes>Gene</MOWiki_Browse_Genes>
+  <MOWiki_Gene_Complexity>Komplexitaet</MOWiki_Gene_Complexity>
+  <MOWiki_Gene_Metabolism>Stoffwechsel</MOWiki_Gene_Metabolism>
+  <MOWiki_Gene_Archites>Architen</MOWiki_Gene_Archites>
+  <MOWiki_Gene_Category>Kategorie</MOWiki_Gene_Category>
+  <MOWiki_Gene_Inherited>Vererbbar</MOWiki_Gene_Inherited>
+  <MOWiki_Gene_MinAge>Aktiv ab Alter</MOWiki_Gene_MinAge>
+  <MOWiki_Gene_Effects>Was es bewirkt</MOWiki_Gene_Effects>
+  <MOWiki_Gene_Pain>Schmerz {0} des Normalen</MOWiki_Gene_Pain>
+  <MOWiki_Gene_Immune>Immun gegen {0}</MOWiki_Gene_Immune>
+  <MOWiki_Gene_NoNeed>Kein Beduerfnis nach {0}</MOWiki_Gene_NoNeed>
+  <MOWiki_Gene_CapMax>hoechstens {0}</MOWiki_Gene_CapMax>
+  <MOWiki_Gene_Ability>Verleiht die Faehigkeit {0}</MOWiki_Gene_Ability>
+  <MOWiki_Gene_Trait>Immer {0}</MOWiki_Gene_Trait>
+  <MOWiki_Gene_NoTrait>Nie {0}</MOWiki_Gene_NoTrait>
+  <MOWiki_Gene_NoWork>Kann keine {0}-Arbeit verrichten</MOWiki_Gene_NoWork>
+  <MOWiki_Gene_Carriers>Wer es traegt</MOWiki_Gene_Carriers>
+  <MOWiki_Gene_NoCarrier>Kein Xenotyp traegt dieses Gen. Es entsteht nur durch Genmanipulation.</MOWiki_Gene_NoCarrier>
+  <MOWiki_Gene_GeneCount>{0} Gene</MOWiki_Gene_GeneCount>
+  <MOWiki_Page_Gene>Gen</MOWiki_Page_Gene>
+  <MOWiki_Look_Section>Wie das Material es veraendert</MOWiki_Look_Section>
+  <MOWiki_Look_Swaps>Dieses Gebaeude nutzt je Materialgruppe eine eigene Textur. Eine Holzfassung und eine Steinfassung unterscheiden sich also nicht nur in der Farbe.</MOWiki_Look_Swaps>
+  <MOWiki_Look_Tinted>Es behaelt eine Textur und nimmt die Farbe des Baustoffs an.</MOWiki_Look_Tinted>
+  <MOWiki_Stuff_MadeOf>Aus</MOWiki_Stuff_MadeOf>
+  <MOWiki_Stat_Beauty>Schoenheit</MOWiki_Stat_Beauty>
+  <MOWiki_Stat_Work>Bauaufwand</MOWiki_Stat_Work>
+  <MOWiki_View_Minimal>Auf die kurze Ansicht wechseln: woher es kommt, wofuer es ist, was es macht</MOWiki_View_Minimal>
+  <MOWiki_View_Full>Zurueck zur vollen Ansicht mit Filtern und Zahlen</MOWiki_View_Full>
 </LanguageData>

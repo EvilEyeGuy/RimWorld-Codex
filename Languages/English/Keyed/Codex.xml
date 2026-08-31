@@ -340,4 +340,32 @@
   <MOWiki_CE_DamageShort>{0} damage</MOWiki_CE_DamageShort>
   <MOWiki_PickerSearch>Type to filter ...</MOWiki_PickerSearch>
   <MOWiki_Kind_Reward>Found in</MOWiki_Kind_Reward>
+  <MOWiki_Browse_Genes>Genes</MOWiki_Browse_Genes>
+  <MOWiki_Gene_Complexity>Complexity</MOWiki_Gene_Complexity>
+  <MOWiki_Gene_Metabolism>Metabolism</MOWiki_Gene_Metabolism>
+  <MOWiki_Gene_Archites>Archites</MOWiki_Gene_Archites>
+  <MOWiki_Gene_Category>Category</MOWiki_Gene_Category>
+  <MOWiki_Gene_Inherited>Inheritable</MOWiki_Gene_Inherited>
+  <MOWiki_Gene_MinAge>Active from age</MOWiki_Gene_MinAge>
+  <MOWiki_Gene_Effects>What it does</MOWiki_Gene_Effects>
+  <MOWiki_Gene_Pain>Pain {0} of normal</MOWiki_Gene_Pain>
+  <MOWiki_Gene_Immune>Immune to {0}</MOWiki_Gene_Immune>
+  <MOWiki_Gene_NoNeed>No need for {0}</MOWiki_Gene_NoNeed>
+  <MOWiki_Gene_CapMax>at most {0}</MOWiki_Gene_CapMax>
+  <MOWiki_Gene_Ability>Grants the ability {0}</MOWiki_Gene_Ability>
+  <MOWiki_Gene_Trait>Always {0}</MOWiki_Gene_Trait>
+  <MOWiki_Gene_NoTrait>Never {0}</MOWiki_Gene_NoTrait>
+  <MOWiki_Gene_NoWork>Cannot do {0} work</MOWiki_Gene_NoWork>
+  <MOWiki_Gene_Carriers>Who carries it</MOWiki_Gene_Carriers>
+  <MOWiki_Gene_NoCarrier>No xenotype carries this gene. It only turns up through gene engineering.</MOWiki_Gene_NoCarrier>
+  <MOWiki_Gene_GeneCount>{0} genes</MOWiki_Gene_GeneCount>
+  <MOWiki_Page_Gene>Gene</MOWiki_Page_Gene>
+  <MOWiki_Look_Section>How the material changes it</MOWiki_Look_Section>
+  <MOWiki_Look_Swaps>This one is drawn from a different texture per material family, so a wooden one and a stone one do not just differ in colour.</MOWiki_Look_Swaps>
+  <MOWiki_Look_Tinted>It keeps one texture and takes the colour of whatever it is built from.</MOWiki_Look_Tinted>
+  <MOWiki_Stuff_MadeOf>Made of</MOWiki_Stuff_MadeOf>
+  <MOWiki_Stat_Beauty>Beauty</MOWiki_Stat_Beauty>
+  <MOWiki_Stat_Work>Work to build</MOWiki_Stat_Work>
+  <MOWiki_View_Minimal>Switch to the short view: where it comes from, what it is for, what it does</MOWiki_View_Minimal>
+  <MOWiki_View_Full>Switch back to the full view with filters and numbers</MOWiki_View_Full>
 </LanguageData>
