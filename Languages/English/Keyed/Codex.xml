@@ -369,4 +369,8 @@
   <MOWiki_View_Minimal>Switch to the short view: where it comes from, what it is for, what it does</MOWiki_View_Minimal>
   <MOWiki_View_Full>Switch back to the full view with filters and numbers</MOWiki_View_Full>
   <MOWiki_SearchAll>Search ...</MOWiki_SearchAll>
+  <MOWiki_Fn_FuelFullTank>A full tank lasts</MOWiki_Fn_FuelFullTank>
+  <MOWiki_Fn_BurnsFor>One unit of fuel burns for</MOWiki_Fn_BurnsFor>
+  <MOWiki_Fn_Days>{0} days</MOWiki_Fn_Days>
+  <MOWiki_Fn_Hours>{0} hours</MOWiki_Fn_Hours>
 </LanguageData>
