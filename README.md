@@ -77,9 +77,9 @@ Anything built from a material carries a picker. Choose granite instead of wood
 and the market value, the mass, the hit points, the beauty and the work all
 follow. Opening the Codex from something on your map sets the material for you.
 
-## What it reads
+## Where the data is from
 
-![What it reads](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=3)
+![Where the data is from](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=4)
 
 ## Works with anything
 
