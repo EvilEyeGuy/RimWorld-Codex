@@ -1,8 +1,8 @@
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/01_introduction.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/01_introduction.png?v=2[/img]
 
 Codex is built the moment you open it, out of the mods you actually have loaded. Nothing in it is written by hand, so it stays correct when a mod updates, and it covers modded content exactly the way it covers vanilla.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png?v=2[/img]
 
 Every page answers the same two questions: where does this come from, and what is it for. Both answers are lists of links, so you can walk a chain instead of guessing. From a locked research to the schematic it needs, to the ruin that schematic drops in, to the odds of finding it there.
 
@@ -10,29 +10,29 @@ Anything built from a material carries a picker. Choose granite instead of wood 
 
 While a game is running, a page also shows where that thing sits on your maps right now, in a stockpile, carried by a pawn, or out with a caravan. Clicking the entry moves the camera there. Clicking again walks through the other copies.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png?v=2[/img]
 
 The button in the top right corner switches between the two, and the game remembers which one you picked. The short view shrinks the window to a small panel you can leave open beside the game, and it follows your map selection: click a thing, and the panel becomes its page.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png?v=2[/img]
 
 The window remembers the page you were on, so the button in the corner picks up where you stopped.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_works_with.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_works_with.png?v=2[/img]
 
 No patches to install, no compatibility list to maintain. A mod that adds items, recipes, research or traders appears on its own, including mods released long after this one.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=2[/img]
 
 Ruins and hideouts are drawn as floor plans, in the colours of the materials they are built from, with every possible layout as its own tab. A floor plan gives away what waits inside, so it starts blurred and uncovers on a click. You can switch that off in the mod settings.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=2[/img]
 
 The index is built once per session, the first time you open the Codex. On a large modlist that takes a moment, so it runs as a proper loading screen with a progress readout instead of a frozen game. Every later opening is instant.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png?v=2[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/09_credits.png[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/09_credits.png?v=2[/img]
 
 Requires Harmony. Nothing else.
 
