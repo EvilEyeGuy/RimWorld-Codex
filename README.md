@@ -76,17 +76,19 @@ ammunition type the weapon fires with its armour penetration.
 
 ## Performance
 
-![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=2)
+![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=3)
 
 Nothing is built at startup. The index is created the first time you open the
 window, and it runs as a loading event with a progress readout, so a very large
 mod list does not look like a freeze. If you never open the window, it costs
 nothing.
 
-Drawing was measured with Dubs Performance Analyzer. With the window open on its
-heaviest page it costs about 0.8 ms per frame, which is less than the vanilla
-work tab at 1.1 ms and roughly a quarter of the vanilla research tree at 3.6 ms.
-The live occurrence lookup refreshes every few seconds and does not register.
+Drawing was measured with Dubs Performance Analyzer on a paused colony. With the
+window open on its heaviest page it costs about 1.05 ms per frame, roughly the
+same as the vanilla work tab at 1.02 ms and a fifth of the vanilla research tree
+at 4.90 ms. In the small panel view the same page costs about 0.24 ms, so
+leaving it open beside the game is close to free. The live occurrence lookup
+refreshes every few seconds and does not register.
 
 ## Usage
 
