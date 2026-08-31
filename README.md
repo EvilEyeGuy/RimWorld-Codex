@@ -1,4 +1,6 @@
-# Codex: A RimWorld Compendium
+# Codex: A RimWorld Encyclopedia
+
+![Codex](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/preview.png)
 
 A dynamic in-game encyclopedia that connects items, creatures, recipes, research,
 workbenches and more across your loaded mods. It has extra support for
@@ -11,6 +13,8 @@ a chain instead of guessing, from a locked research to the schematic it needs,
 to the ruin that schematic drops in and the odds of finding it there.
 
 ## What it covers
+
+![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png)
 
 - **Items, buildings, plants and materials**: recipes, processing chains,
   mining, harvesting, smelting, construction costs and stats
@@ -51,6 +55,8 @@ ammunition type the weapon fires with its armour penetration.
 
 ## Performance
 
+![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_performance.png)
+
 Nothing is built at startup. The index is created the first time you open the
 window, and it runs as a loading event with a progress readout, so a very large
 mod list does not look like a freeze. If you never open the window, it costs
@@ -62,6 +68,8 @@ work tab at 1.1 ms and roughly a quarter of the vanilla research tree at 3.6 ms.
 The live occurrence lookup refreshes every few seconds and does not register.
 
 ## Usage
+
+![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_where_to_open.png)
 
 Open it with the book button in the toggle row at the bottom right.
 
