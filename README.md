@@ -13,8 +13,6 @@ does this come from, and what is it for. Everything is linked, so you can follow
 a chain instead of guessing, from a locked research to the schematic it needs,
 to the ruin that schematic drops in and the odds of finding it there.
 
-## What it covers
-
 ![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png?v=2)
 
 - **Items, buildings, plants and materials**: recipes, processing chains,
@@ -63,8 +61,6 @@ The Medieval Overhaul support reads what is otherwise invisible: monster drop
 chances, loot table percentages, which schematic a research project needs, which
 container a mimic is hiding in, and what the Explorer's Workbench can discover.
 
-## Two views
-
 ![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png?v=3)
 
 On every page the two sections that answer where it comes from and what it is
@@ -77,22 +73,14 @@ Anything built from a material carries a picker. Choose granite instead of wood
 and the market value, the mass, the hit points, the beauty and the work all
 follow. Opening the Codex from something on your map sets the material for you.
 
-## Where the data is from
-
 ![Where the data is from](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=4)
 
-## Works with anything
-
 ![Works with](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_works_with.png?v=2)
-
-## Combat Extended
 
 With Combat Extended loaded, the vanilla ranged numbers are wrong, so they are
 not shown. In their place you get the real ones: range, minimum range, warmup,
 burst, recoil, magazine, reload time, sight efficiency and bulk, plus every
 ammunition type the weapon fires with its armour penetration.
-
-## Performance
 
 ![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=4)
 
@@ -108,17 +96,11 @@ at 4.90 ms. In the small panel view the same page costs about 0.25 ms, so
 leaving it open beside the game is close to free. The live occurrence lookup
 refreshes every few seconds and does not register.
 
-## Usage
-
 ![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png?v=2)
 
 Open it with the book button in the toggle row at the bottom right.
 
-## Questions
-
 ![FAQ](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png?v=2)
-
-## Credits
 
 ![Credits](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/09_credits.png?v=2)
 
