@@ -1,49 +1,112 @@
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/01_introduction.png?v=6[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h1_intro.png?v=1[/img]
 
-Codex is built the moment you open it, out of the mods you actually have loaded. Nothing in it is written by hand, so it stays correct when a mod updates, and it covers modded content exactly the way it covers vanilla.
+RimPedia is a dynamic in game encyclopedia for RimWorld.
 
-On a normal medieval modlist that comes to about 7300 pages: items, buildings, creatures, factions, traders, research, ruins, quests, genes, memes and precepts, abilities, health conditions, traits and backstories.
+It builds its pages from the mods you currently have loaded. If your mod list changes, RimPedia changes too.
 
-Codex was originally built for Medieval Overhaul, where the same questions kept coming up. Where does this come from, how is it processed, what is a golem corpse good for. The answers now come out of the game's own definitions instead of out of a forum thread, and a good deal more with them. Nothing in it is tied to Medieval Overhaul, which is why it works on any modlist. Medieval Overhaul simply gets the deepest coverage, because that is where the questions started.
+RimPedia was originally made for Medieval Overhaul. It was made because people kept asking the same questions. Where does this item come from? What is this corpse used for? How do I unlock this research? RimPedia tries to answer these questions directly in game.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png?v=2[/img]
+It is not limited to Medieval Overhaul. It works with any mod list. Medieval Overhaul just has some extra support because that is where the project started.
 
-Every page answers the same two questions: where does this come from, and what is it for. Both answers are lists of links, so you can walk a chain instead of guessing. From a locked research to the schematic it needs, to the ruin that schematic drops in, to the odds of finding it there.
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h2_page.png?v=1[/img]
 
-A condition walks its stages with pain, capacities and stats for each one, then names what causes it and what cures it. A quest says where it takes you, when it expires and which quest it hangs off. A precept says what it does to mood and on which occasion. A backstory says what it teaches, what work it rules out for life, and who turns up with it.
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/02_what_it_shows.png?v=2[/img]
 
-Anything built from a material carries a picker. Choose granite instead of wood and the market value, the mass, the hit points, the beauty and the work all follow. Click the Codex button on something standing on your map and it opens already set to the material that thing is made of.
+[olist]
+[*]Search by name or def name
+[*]Filter the list by category, by mod, or by where something comes from
+[*]Every entry in the list opens its own page
+[*]Pick the material, the values below change with it
+[*]Values, and where the thing is on your maps right now
+[*]Click a heading to fold the section away
+[*]Rows are links, they open the page behind them
+[/olist]
 
-While a game is running, a page also shows where that thing sits on your maps right now, in a stockpile, carried by a pawn, or out with a caravan. Clicking the entry moves the camera there. Clicking again walks through the other copies.
+Most pages answer two simple questions. Where does this come from, and what is it used for. Entries are linked to each other, so you can follow a chain step by step. For example, from a research project to its required schematic, and from that schematic to the ruin where it can be found.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png?v=3[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h3_covers.png?v=1[/img]
 
-The button in the top right corner switches between the two, and the game remembers which one you picked. The short view shrinks the window to a small panel you can leave open beside the game, and it follows your map selection: click a thing, and the panel becomes its page.
+[list]
+[*]Items, buildings, plants and materials: recipes, processing, harvesting, mining, smelting, stats and build costs
+[*]Pawns and animals: combat stats, attacks, faction variants, skills, equipment and where they appear
+[*]Research projects: prerequisites, unlocks, required buildings, schematics and techprints
+[*]Factions, traders, royal titles, ruins and quests
+[*]Genes, memes, precepts and abilities
+[*]Health conditions with their stages, causes and cures, traits and backstories
+[/list]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h4_views.png?v=1[/img]
 
-The window remembers the page you were on, so the button in the corner picks up where you stopped.
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=2[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_works_with.png?v=2[/img]
+[olist]
+[*]The full view shows the whole page
+[*]The compact view is a small panel you can leave open while playing. It follows your current selection, so clicking something on the map updates the panel to that page
+[/olist]
 
-No patches to install, no compatibility list to maintain. A mod that adds items, recipes, research or traders appears on its own, including mods released long after this one.
+The button in the top right switches between them, and the game remembers which one you selected.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=4[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h5_open.png?v=1[/img]
 
-Content from an expansion says so. The badge in the corner of a page names Royalty, Ideology, Biotech, Anomaly or Odyssey the same way it names a mod, so you can tell at a glance where something came from.
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=2[/img]
 
-Ruins and hideouts are drawn as floor plans, in the colours of the materials they are built from, with every possible layout as its own tab. A floor plan gives away what waits inside, so it starts blurred and uncovers on a click. You can switch that off in the mod settings.
+[olist]
+[*]The book button in the bottom right toggle row
+[*]The button beside the info button when something is selected
+[*]The button in the info card
+[/olist]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=4[/img]
+The window also remembers the last page you opened.
 
-The index is built once per session, the first time you open the Codex. On a large modlist that takes a moment, so it runs as a proper loading screen with a progress readout instead of a frozen game. Every later opening is instant. With the window open on its heaviest page, drawing costs about 1 ms per frame, roughly the same as the vanilla work tab and a fifth of the vanilla research tree. The small panel costs a quarter of that, so you can leave it sitting beside the game.
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h6_works.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png?v=2[/img]
+RimPedia works with vanilla, DLC content and modded content.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/09_credits.png?v=2[/img]
+Most normal Def based content is picked up automatically. This includes things like items, recipes, research, buildings, traders and many other common systems.
+
+Some custom mechanics use their own custom mod extensions or other special code. RimPedia reads those too and links what belongs together, but it cannot always tell what a mechanic means. Because of that, some mods may need extra support for certain mechanics. Luckily, this is not needed very often.
+
+If a mod is missing something important, please tell me. I can have a look and maybe add support for it.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h7_reads.png?v=1[/img]
+
+A page can show if something comes from Core, Royalty, Ideology, Biotech, Anomaly, Odyssey or from a mod.
+
+For Medieval Overhaul, RimPedia also reads several custom mechanics that are not easy to see in normal gameplay. This includes things like monster drop chances, loot chances, schematic requirements, mimic containers and Explorer's Workbench discoveries.
+
+Ruins and hideouts are shown as floor plans, and different layouts are shown as separate tabs. Because this can spoil what is inside, floor plans start blurred by default. You can reveal them with a click or disable the blur in the mod settings.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h8_performance.png?v=1[/img]
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/05_performance.png?v=1[/img]
+
+Measured with Dubs Performance Analyzer on a paused colony, on the heaviest page in the list, at the same window size as the vanilla tabs.
+
+RimPedia does not build its index during game startup. The index is built the first time you open RimPedia in a session. On large mod lists this may take a moment, so it runs as a loading screen with progress. If you never open RimPedia, it does not do this work.
+
+After the index is built once, opening it again is instant for the rest of the session.
+
+With the heaviest page open, drawing cost is about 1 ms per frame. The compact view costs much less and can usually be left open without problems.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h9_faq.png?v=1[/img]
+
+[b]Does RimPedia require Medieval Overhaul?[/b]
+No. It works with any mod list.
+
+[b]Does it spoil ruins?[/b]
+Floor plans are blurred by default.
+
+[b]Does it slow down startup?[/b]
+No. The index is built when you open RimPedia.
+
+[b]What if a mechanic is missing?[/b]
+Tell me and I can look into it.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h10_credits.png?v=1[/img]
+
+Code and art: Evil Eye Guy
 
 Requires Harmony. Nothing else.
 
-Source and issue tracker: [url=https://github.com/EvilEyeGuy/RimWorld-Codex]github.com/EvilEyeGuy/RimWorld-Codex[/url]
-
-If a mod of yours keeps something interesting in its own extension and the Codex stays quiet about it, name the mod and it can be taught to read it.
+Source and issue tracker:
+[url=https://github.com/EvilEyeGuy/RimWorld-RimPedia]github.com/EvilEyeGuy/RimWorld-RimPedia[/url]
