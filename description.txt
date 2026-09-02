@@ -10,7 +10,7 @@ It is not limited to Medieval Overhaul. It works with any mod list. Medieval Ove
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h2_page.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/02_what_it_shows.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/02_what_it_shows.png?v=3[/img]
 
 [olist]
 [*]Search by name or def name
@@ -37,7 +37,7 @@ Most pages answer two simple questions. Where does this come from, and what is i
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h4_views.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=3[/img]
 
 [olist]
 [*]The full view shows the whole page
@@ -48,7 +48,7 @@ The button in the top right switches between them, and the game remembers which 
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h5_open.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=4[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=5[/img]
 
 [olist]
 [*]The book button in the bottom right toggle row
@@ -78,7 +78,7 @@ Ruins and hideouts are shown as floor plans, and different layouts are shown as 
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h8_performance.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/05_performance.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/05_performance.png?v=2[/img]
 
 Measured with Dubs Performance Analyzer on a paused colony, on the heaviest page in the list, at the same window size as the vanilla tabs.
 
