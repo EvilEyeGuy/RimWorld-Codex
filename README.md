@@ -127,10 +127,10 @@ ammunition type the weapon fires with its armour penetration.
 
 ![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/05_performance.png?v=2)
 
-Nothing is built at startup. The index is created the first time you open the
-window, and it runs as a loading event with a progress readout, so a very large
-mod list does not look like a freeze. If you never open the window, it costs
-nothing. After that, reopening it is instant for the rest of the session.
+Nothing is built while the game starts. The index is put together the first time
+you open the window in a session, with a progress bar, and on a big mod list that
+takes a moment. Every time after that it opens instantly. If you never open it,
+that work never happens at all.
 
 Drawing was measured with Dubs Performance Analyzer on a paused colony. With the
 window open on its heaviest page it costs about 1.04 ms per frame, roughly the
@@ -161,7 +161,3 @@ Harmony. Nothing else.
 
 Download the repository and drop the folder into `RimWorld/Mods`. The built
 assembly is included, so nothing needs to be compiled.
-
-## Credits
-
-Code and art: Evil Eye Guy
