@@ -1,12 +1,12 @@
-# Codex: A RimWorld Encyclopedia
+# RimPedia
 
-![Codex](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/preview.png?v=3)
+![RimPedia](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/preview.png?v=4)
 
 A dynamic in-game encyclopedia that connects items, creatures, recipes, research,
 workbenches and more across your loaded mods. On a normal medieval modlist that
-comes to around 7300 pages.
+comes to around 8000 pages.
 
-Codex was originally built for
+RimPedia was originally built for
 [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926),
 where the same questions kept coming up. Where does this come from, how is it
 processed, what is a golem corpse good for. The answers now come out of the
@@ -20,7 +20,19 @@ does this come from, and what is it for. Everything is linked, so you can follow
 a chain instead of guessing, from a locked research to the schematic it needs,
 to the ruin that schematic drops in and the odds of finding it there.
 
-![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/02_what_it_shows.png?v=2)
+## What a page shows
+
+![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/02_what_it_shows.png?v=2)
+
+1. Search by name or def name
+2. Filter the list by category, by mod, or by where something comes from
+3. Every entry in the list opens its own page
+4. Pick the material, the values below change with it
+5. Values, and where the thing is on your maps right now
+6. Click a heading to fold the section away
+7. Rows are links, they open the page behind them
+
+## What it covers
 
 - **Items, buildings, plants and materials**: recipes, processing chains,
   mining, harvesting, smelting, construction costs and stats
@@ -60,41 +72,65 @@ entry jumps the camera there, and clicking again walks through the other copies.
 Floor plans give away what a ruin looks like inside, so they start blurred and
 uncover on a click. You can turn that off in the mod settings.
 
+## Two views
+
+![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=2)
+
+1. The full view shows the whole page
+2. The compact view is a small panel you can leave open while playing. It
+   follows your current selection, so clicking something on the map updates the
+   panel to that page
+
+The button in the top right switches between them, and the game remembers which
+one you selected.
+
+Every page opens with all of its sections unfolded. Fold away the ones you
+never read and the heading keeps the number of entries behind it, so nothing
+disappears without saying so.
+
+Anything built from a material carries a picker. Choose granite instead of wood
+and the market value, the mass, the hit points, the beauty and the work all
+follow. Opening RimPedia from something on your map sets the material for you.
+
+## Where to open it
+
+![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=4)
+
+1. The book button in the bottom right toggle row
+2. The button beside the info button when something is selected
+3. The button in the info card
+
+The window also remembers the last page you opened.
+
+## What it reads
+
 Nothing is hard-coded. The index is generated at runtime from whatever mods you
 have installed, so it stays correct when they update and it covers modded content
 the same way it covers vanilla.
 
+Most normal Def based content is picked up automatically. Some mods carry their
+own mod extensions or special code. RimPedia reads those too and links what
+belongs together, but it cannot always tell what a mechanic means, so a few mods
+may need extra support for certain mechanics. If a mod is missing something
+important, open an issue and I can have a look.
+
 The Medieval Overhaul support reads what is otherwise invisible: monster drop
 chances, loot table percentages, which schematic a research project needs, which
 container a mimic is hiding in, and what the Explorer's Workbench can discover.
-
-![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/03_two_views.png?v=3)
-
-Every page opens with all of its sections unfolded. Fold away the ones you
-never read and the heading keeps the number of entries behind it, so nothing
-disappears without saying so. The button in the top right corner strips the
-page down to where it comes from, what it is for and what it does, with a
-single search field and no filters. The game remembers your choice.
-
-Anything built from a material carries a picker. Choose granite instead of wood
-and the market value, the mass, the hit points, the beauty and the work all
-follow. Opening the Codex from something on your map sets the material for you.
-
-![Where the data is from](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/06_what_it_reads.png?v=4)
-
-![Works with](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/05_works_with.png?v=2)
 
 With Combat Extended loaded, the vanilla ranged numbers are wrong, so they are
 not shown. In their place you get the real ones: range, minimum range, warmup,
 burst, recoil, magazine, reload time, sight efficiency and bulk, plus every
 ammunition type the weapon fires with its armour penetration.
 
-![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/07_performance.png?v=4)
+## Performance
+
+![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/05_performance.png?v=1)
 
 Nothing is built at startup. The index is created the first time you open the
 window, and it runs as a loading event with a progress readout, so a very large
 mod list does not look like a freeze. If you never open the window, it costs
-nothing.
+nothing. After that, reopening it is instant for the rest of the session.
 
 Drawing was measured with Dubs Performance Analyzer on a paused colony. With the
 window open on its heaviest page it costs about 1.04 ms per frame, roughly the
@@ -103,13 +139,19 @@ at 4.90 ms. In the small panel view the same page costs about 0.25 ms, so
 leaving it open beside the game is close to free. The live occurrence lookup
 refreshes every few seconds and does not register.
 
-![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/04_where_to_open.png?v=2)
+## FAQ
 
-Open it with the book button in the toggle row at the bottom right.
+**Does RimPedia require Medieval Overhaul?**
+No. It works with any mod list.
 
-![FAQ](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/08_faq.png?v=2)
+**Does it spoil ruins?**
+Floor plans are blurred by default.
 
-![Credits](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Codex/workshop/09_credits.png?v=2)
+**Does it slow down startup?**
+No. The index is built when you open RimPedia.
+
+**What if a mechanic is missing?**
+Open an issue and I can look into it.
 
 ## Requirements
 
@@ -119,3 +161,7 @@ Harmony. Nothing else.
 
 Download the repository and drop the folder into `RimWorld/Mods`. The built
 assembly is included, so nothing needs to be compiled.
+
+## Credits
+
+Code and art: Evil Eye Guy
