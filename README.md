@@ -22,7 +22,7 @@ to the ruin that schematic drops in and the odds of finding it there.
 
 ## What a page shows
 
-![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/02_what_it_shows.png?v=2)
+![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/02_what_it_shows.png?v=3)
 
 1. Search by name or def name
 2. Filter the list by category, by mod, or by where something comes from
@@ -74,7 +74,7 @@ uncover on a click. You can turn that off in the mod settings.
 
 ## Two views
 
-![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=2)
+![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=3)
 
 1. The full view shows the whole page
 2. The compact view is a small panel you can leave open while playing. It
@@ -94,7 +94,7 @@ follow. Opening RimPedia from something on your map sets the material for you.
 
 ## Where to open it
 
-![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=4)
+![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=5)
 
 1. The book button in the bottom right toggle row
 2. The button beside the info button when something is selected
@@ -125,7 +125,7 @@ ammunition type the weapon fires with its armour penetration.
 
 ## Performance
 
-![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/05_performance.png?v=1)
+![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/05_performance.png?v=2)
 
 Nothing is built at startup. The index is created the first time you open the
 window, and it runs as a loading event with a progress readout, so a very large
