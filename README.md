@@ -74,7 +74,7 @@ uncover on a click. You can turn that off in the mod settings.
 
 ## Two views
 
-![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=3)
+![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=4)
 
 1. The full view shows the whole page
 2. The compact view is a small panel you can leave open while playing. It
