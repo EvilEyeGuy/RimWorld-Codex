@@ -82,11 +82,9 @@ Ruins and hideouts are shown as floor plans, and different layouts are shown as 
 
 Measured with Dubs Performance Analyzer on a paused colony, on the heaviest page in the list, at the same window size as the vanilla tabs.
 
-RimPedia does not build its index during game startup. The index is built the first time you open RimPedia in a session. On large mod lists this may take a moment, so it runs as a loading screen with progress. If you never open RimPedia, it does not do this work.
+Nothing is built while the game starts. The index is put together the first time you open the window in a session, with a progress bar, and on a big mod list that takes a moment. Every time after that it opens instantly. If you never open it, that work never happens at all.
 
-After the index is built once, opening it again is instant for the rest of the session.
-
-With the heaviest page open, drawing cost is about 1 ms per frame. The compact view costs much less and can usually be left open without problems.
+With the heaviest page open, drawing costs about 1 ms per frame. The compact view costs a lot less and can stay open next to the game.
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h9_faq.png?v=1[/img]
 
