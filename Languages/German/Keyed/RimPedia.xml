@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MOWiki_Title>Codex</MOWiki_Title>
-  <MOWiki_ButtonTip>Codex - woher Dinge kommen und wofür sie gut sind</MOWiki_ButtonTip>
+  <MOWiki_Title>RimPedia</MOWiki_Title>
+  <MOWiki_ButtonTip>RimPedia - woher Dinge kommen und wofuer sie da sind</MOWiki_ButtonTip>
   <MOWiki_Count>{0} von {1}</MOWiki_Count>
 
   <!-- Filter der linken Spalte -->
@@ -164,7 +164,7 @@
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_Kind_Corpse>Leiche von</MOWiki_Kind_Corpse>
   <MOWiki_Home>Start</MOWiki_Home>
-  <MOWiki_HomeIntro>Dieser Codex wird aus den Defs gebaut, die in deinem Spiel tatsächlich geladen sind. Jeder Eintrag beantwortet die zwei Fragen, die das Spiel selbst nicht beantwortet: woher kommt das, und wofür ist es gut. Mit Drop-Chancen, Fund-Prozenten, Verarbeitungszeiten und Forschungssperren.</MOWiki_HomeIntro>
+  <MOWiki_HomeIntro>RimPedia wird aus den Defs gebaut, die in deinem Spiel tatsächlich geladen sind. Jeder Eintrag beantwortet die zwei Fragen, die das Spiel selbst nicht beantwortet: woher kommt das, und wofür ist es gut. Mit Drop-Chancen, Fund-Prozenten, Verarbeitungszeiten und Forschungssperren.</MOWiki_HomeIntro>
   <MOWiki_HomeContents>Inhalt</MOWiki_HomeContents>
   <MOWiki_HomeHints>So funktioniert es</MOWiki_HomeHints>
   <MOWiki_HomeHint1>Suche nach Name oder defName, oder grenze die Liste mit den Kategorie-Knöpfen ein.</MOWiki_HomeHint1>
@@ -287,7 +287,7 @@
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_AppearsIn>Erscheint in</MOWiki_AppearsIn>
   <MOWiki_Xenotypes>Xenotypen</MOWiki_Xenotypes>
-  <MOWiki_OpenCodex>Im Codex öffnen</MOWiki_OpenCodex>
+  <MOWiki_OpenRimPedia>In RimPedia oeffnen</MOWiki_OpenRimPedia>
 
   <MOWiki_TraderBase>Siedlung: {0}</MOWiki_TraderBase>
   <MOWiki_TraderVisitor>Besucher: {0}</MOWiki_TraderVisitor>
@@ -333,8 +333,8 @@
   <MOWiki_MO_UnlockedBy>Braucht eine verbundene {0}</MOWiki_MO_UnlockedBy>
   <MOWiki_MO_UnlockedByMany>Braucht {0} verbundene Gebaeude, eines davon {1}</MOWiki_MO_UnlockedByMany>
   <MOWiki_CE_Values>Combat-Extended-Werte</MOWiki_CE_Values>
-  <MOWiki_BuildingStart>Codex liest deine Mods ein ...</MOWiki_BuildingStart>
-  <MOWiki_Building>Codex: Schritt {0} von {1}, {2}</MOWiki_Building>
+  <MOWiki_BuildingStart>RimPedia liest deine Mods...</MOWiki_BuildingStart>
+  <MOWiki_Building>RimPedia: Schritt {0} von {1}, {2}</MOWiki_Building>
   <MOWiki_NoSource>Kein geladener Def stellt das her. Es kann aus einem Ereignis, einer Questbelohnung oder dem Spielcode selbst stammen.</MOWiki_NoSource>
   <MOWiki_Kind_Extract>Schädel entnehmen</MOWiki_Kind_Extract>
   <MOWiki_Kind_Deconstruct>Abbauen</MOWiki_Kind_Deconstruct>
@@ -525,4 +525,6 @@
   <MOWiki_Food_MealSimple>Einfache Mahlzeit</MOWiki_Food_MealSimple>
   <MOWiki_Food_MealFine>Feine Mahlzeit</MOWiki_Food_MealFine>
   <MOWiki_Food_MealLavish>Ueppige Mahlzeit</MOWiki_Food_MealLavish>
+  <MOWiki_Grows>Waechst in</MOWiki_Grows>
+  <MOWiki_MO_OnlyGrown>Nur wenn die Pflanze ausgewachsen ist</MOWiki_MO_OnlyGrown>
 </LanguageData>

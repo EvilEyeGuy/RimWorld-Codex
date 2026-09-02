@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MOWiki_Title>Codex</MOWiki_Title>
-  <MOWiki_ButtonTip>Codex - where things come from and what they are for</MOWiki_ButtonTip>
+  <MOWiki_Title>RimPedia</MOWiki_Title>
+  <MOWiki_ButtonTip>RimPedia - where things come from and what they are for</MOWiki_ButtonTip>
   <MOWiki_Count>{0} of {1}</MOWiki_Count>
 
   <!-- Left column filters -->
@@ -287,7 +287,7 @@
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_AppearsIn>Appears in</MOWiki_AppearsIn>
   <MOWiki_Xenotypes>Xenotypes</MOWiki_Xenotypes>
-  <MOWiki_OpenCodex>Open in Codex</MOWiki_OpenCodex>
+  <MOWiki_OpenRimPedia>Open in RimPedia</MOWiki_OpenRimPedia>
 
   <MOWiki_TraderBase>{0} settlement</MOWiki_TraderBase>
   <MOWiki_TraderVisitor>{0} visitors</MOWiki_TraderVisitor>
@@ -333,8 +333,8 @@
   <MOWiki_MO_UnlockedBy>Needs a linked {0}</MOWiki_MO_UnlockedBy>
   <MOWiki_MO_UnlockedByMany>Needs {0} linked buildings, one of them a {1}</MOWiki_MO_UnlockedByMany>
   <MOWiki_CE_Values>Combat Extended values</MOWiki_CE_Values>
-  <MOWiki_BuildingStart>Codex is reading your mods...</MOWiki_BuildingStart>
-  <MOWiki_Building>Codex: step {0} of {1}, {2}</MOWiki_Building>
+  <MOWiki_BuildingStart>RimPedia is reading your mods...</MOWiki_BuildingStart>
+  <MOWiki_Building>RimPedia: step {0} of {1}, {2}</MOWiki_Building>
   <MOWiki_NoSource>No loaded def produces this. It may come from an event, a quest reward, or the game's own code.</MOWiki_NoSource>
   <MOWiki_Kind_Extract>Skull extraction</MOWiki_Kind_Extract>
   <MOWiki_Kind_Deconstruct>Deconstructing</MOWiki_Kind_Deconstruct>
@@ -525,4 +525,6 @@
   <MOWiki_Food_MealSimple>Simple meal</MOWiki_Food_MealSimple>
   <MOWiki_Food_MealFine>Fine meal</MOWiki_Food_MealFine>
   <MOWiki_Food_MealLavish>Lavish meal</MOWiki_Food_MealLavish>
+  <MOWiki_Grows>Grows in</MOWiki_Grows>
+  <MOWiki_MO_OnlyGrown>Only when the plant is fully grown</MOWiki_MO_OnlyGrown>
 </LanguageData>

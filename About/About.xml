@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Codex: A RimWorld Encyclopedia</name>
+  <name>RimPedia</name>
   <author>Evil Eye Guy</author>
-  <packageId>EvilEyeGuy.Codex</packageId>
+  <packageId>EvilEyeGuy.RimPedia</packageId>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
-  <description>A dynamic in-game encyclopedia that connects items, creatures, recipes, research, workbenches and more across your loaded mods, with special support for Medieval Overhaul to cover its unique mechanics and features, while remaining fully usable with any other mod setup.
+  <description>RimPedia is a dynamic in game encyclopedia for RimWorld.
 
-For any item it answers the two questions the game itself never answers: where does this come from, and what is it for. Everything is linked, so you can follow a chain instead of guessing, from a locked research to the schematic it needs, to the ruin that schematic drops in and the odds of finding it there.
+It builds its pages from the mods you currently have loaded. If your mod list changes, RimPedia changes too.
 
-WHAT IT COVERS
+RimPedia links many parts of the game together and helps answer two common questions: where does this come from, and what is it used for.
 
-- Items, buildings, plants and materials: recipes, processing chains, mining, harvesting, smelting, construction costs and stats
-- Creatures: combat power, armour, attacks with damage per second, and where they occur: biomes with commonality, events, factions, or the container they hide in
-- Pawns: every pawn kind with its faction variants, skills, possible weapons and apparel, plus a generated example
-- Factions, traders and royal titles, including full room and apparel requirements
-- Research: what it unlocks, what it leads to, and what blocks it, meaning schematics, techprints, benches and prerequisites
+It can show things like recipes, processing, stats, research unlocks, schematics, techprints, pawn data, faction data, quests, health conditions, traits, backstories and more.
 
-Nothing is hard-coded. The index is generated at runtime from whatever mods you have installed, so it stays correct when they update and it covers modded content the same way it covers vanilla.
+Most normal Def based content is picked up automatically. Some custom mechanics use custom mod extensions or special code and may need extra support.
 
-Special support for Medieval Overhaul reads the things that are otherwise invisible: monster drop chances, loot table percentages, which schematic a research project needs, which container a mimic is hiding in, and what the Explorer's Workbench can discover.
+RimPedia was originally made for Medieval Overhaul, so it also supports several of its custom mechanics, such as monster drops, loot chances, schematic requirements, mimic containers and Explorer's Workbench discoveries.
 
-PERFORMANCE
+The index is built the first time you open RimPedia. It is not built during startup. If you never open it, it does no work.
 
-Nothing is built at startup. The index is created the first time you open the window, which takes a fraction of a second. If you never open it, it costs nothing.
-
-Open it with the book button in the toggle row at the bottom right.</description>
+Open it with the book button in the bottom right toggle row.</description>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>
