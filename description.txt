@@ -48,7 +48,7 @@ The button in the top right switches between them, and the game remembers which 
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h5_open.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=3[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=4[/img]
 
 [olist]
 [*]The book button in the bottom right toggle row
