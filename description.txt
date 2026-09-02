@@ -37,7 +37,7 @@ Most pages answer two simple questions. Where does this come from, and what is i
 
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h4_views.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=4[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=5[/img]
 
 [olist]
 [*]The full view shows the whole page
