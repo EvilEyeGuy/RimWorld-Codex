@@ -25,6 +25,9 @@
   <!-- Section headings -->
   <MOWiki_Sources>Where to get it</MOWiki_Sources>
   <MOWiki_Uses>What it is for</MOWiki_Uses>
+  <MOWiki_MadeHere>What you can make here</MOWiki_MadeHere>
+  <MOWiki_UsedHere>Ingredients used here</MOWiki_UsedHere>
+  <MOWiki_AnyOf>any of {0}</MOWiki_AnyOf>
   <MOWiki_Yields>Yields</MOWiki_Yields>
   <MOWiki_Needs>Needs</MOWiki_Needs>
   <MOWiki_Contains>Contains</MOWiki_Contains>

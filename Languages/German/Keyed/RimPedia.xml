@@ -25,6 +25,9 @@
   <!-- Abschnitte -->
   <MOWiki_Sources>Woher</MOWiki_Sources>
   <MOWiki_Uses>Wofür</MOWiki_Uses>
+  <MOWiki_MadeHere>Was man hier herstellen kann</MOWiki_MadeHere>
+  <MOWiki_UsedHere>Zutaten, die hier verarbeitet werden</MOWiki_UsedHere>
+  <MOWiki_AnyOf>eines von {0}</MOWiki_AnyOf>
   <MOWiki_Yields>Ergibt</MOWiki_Yields>
   <MOWiki_Needs>Braucht</MOWiki_Needs>
   <MOWiki_Contains>Enthält</MOWiki_Contains>
